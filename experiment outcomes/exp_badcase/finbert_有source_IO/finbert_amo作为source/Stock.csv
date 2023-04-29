@@ -1,0 +1,193 @@
+,0
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 141}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.9906542056074766, 'recall': 0.5353535353535354, 'f1': 0.6950819672131148, 'number': 198}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.4864864864864865, 'recall': 0.6293706293706294, 'f1': 0.548780487804878, 'number': 143}"
+CommonStockSharesAuthorized,"{'precision': 0.3508771929824561, 'recall': 0.16129032258064516, 'f1': 0.22099447513812154, 'number': 124}"
+CommonStockSharesOutstanding,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 109}"
+PreferredStockDividendRatePercentage,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 112}"
+PreferredStockSharesAuthorized,"{'precision': 0.22093023255813954, 'recall': 0.1919191919191919, 'f1': 0.20540540540540542, 'number': 99}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.7333333333333333, 'recall': 0.10679611650485436, 'f1': 0.18644067796610167, 'number': 103}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.13333333333333333, 'recall': 0.013333333333333334, 'f1': 0.024242424242424242, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.25517241379310346, 'recall': 0.46835443037974683, 'f1': 0.33035714285714285, 'number': 79}"
+SharePrice,"{'precision': 1.0, 'recall': 0.010526315789473684, 'f1': 0.020833333333333332, 'number': 95}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.25925925925925924, 'recall': 0.2692307692307692, 'f1': 0.2641509433962264, 'number': 182}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.896551724137931, 'recall': 0.14942528735632185, 'f1': 0.2561576354679803, 'number': 348}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.45161290322580644, 'recall': 0.06930693069306931, 'f1': 0.12017167381974249, 'number': 202}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.2857142857142857, 'recall': 0.02, 'f1': 0.037383177570093455, 'number': 100}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.15384615384615385, 'recall': 0.01904761904761905, 'f1': 0.03389830508474577, 'number': 105}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 121}"
+TreasuryStockSharesAcquired,"{'precision': 0.4069400630914827, 'recall': 0.602803738317757, 'f1': 0.4858757062146893, 'number': 214}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.20089285714285715, 'recall': 0.38461538461538464, 'f1': 0.26392961876832843, 'number': 117}"
+overall_precision,0.39414567733151806
+overall_recall,0.2111597374179431
+overall_f1,0.2749940631678936
+overall_accuracy,0.9746361532527642
+,
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.6460176991150443, 'recall': 0.5177304964539007, 'f1': 0.5748031496062991, 'number': 141}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.8325991189427313, 'recall': 0.9545454545454546, 'f1': 0.8894117647058823, 'number': 198}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.7278481012658228, 'recall': 0.8041958041958042, 'f1': 0.7641196013289037, 'number': 143}"
+CommonStockSharesAuthorized,"{'precision': 0.528, 'recall': 0.532258064516129, 'f1': 0.5301204819277109, 'number': 124}"
+CommonStockSharesOutstanding,"{'precision': 0.5272727272727272, 'recall': 0.26605504587155965, 'f1': 0.3536585365853658, 'number': 109}"
+PreferredStockDividendRatePercentage,"{'precision': 0.7176470588235294, 'recall': 0.5446428571428571, 'f1': 0.6192893401015228, 'number': 112}"
+PreferredStockSharesAuthorized,"{'precision': 0.6555555555555556, 'recall': 0.5959595959595959, 'f1': 0.6243386243386243, 'number': 99}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.5538461538461539, 'recall': 0.34951456310679613, 'f1': 0.42857142857142855, 'number': 103}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.40404040404040403, 'recall': 0.5333333333333333, 'f1': 0.4597701149425287, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.4180327868852459, 'recall': 0.6455696202531646, 'f1': 0.5074626865671642, 'number': 79}"
+SharePrice,"{'precision': 0.47540983606557374, 'recall': 0.30526315789473685, 'f1': 0.3717948717948718, 'number': 95}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.3395061728395062, 'recall': 0.3021978021978022, 'f1': 0.3197674418604651, 'number': 182}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.8497854077253219, 'recall': 0.5689655172413793, 'f1': 0.6815834767641996, 'number': 348}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.9864864864864865, 'recall': 0.3613861386138614, 'f1': 0.5289855072463768, 'number': 202}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.48936170212765956, 'recall': 0.23, 'f1': 0.3129251700680272, 'number': 100}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.2, 'recall': 0.02857142857142857, 'f1': 0.049999999999999996, 'number': 105}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.6625, 'recall': 0.4380165289256198, 'f1': 0.5273631840796019, 'number': 121}"
+TreasuryStockSharesAcquired,"{'precision': 0.4631578947368421, 'recall': 0.616822429906542, 'f1': 0.5290581162324649, 'number': 214}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.2935323383084577, 'recall': 0.5042735042735043, 'f1': 0.3710691823899371, 'number': 117}"
+overall_precision,0.5776293823038398
+overall_recall,0.5047410649161196
+overall_f1,0.5387310237446478
+overall_accuracy,0.9810336847518643
+,
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.7288135593220338, 'recall': 0.6099290780141844, 'f1': 0.664092664092664, 'number': 141}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.9313725490196079, 'recall': 0.9595959595959596, 'f1': 0.945273631840796, 'number': 198}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.810126582278481, 'recall': 0.8951048951048951, 'f1': 0.8504983388704319, 'number': 143}"
+CommonStockSharesAuthorized,"{'precision': 0.4899328859060403, 'recall': 0.5887096774193549, 'f1': 0.5347985347985348, 'number': 124}"
+CommonStockSharesOutstanding,"{'precision': 0.5597014925373134, 'recall': 0.6880733944954128, 'f1': 0.6172839506172839, 'number': 109}"
+PreferredStockDividendRatePercentage,"{'precision': 0.6805555555555556, 'recall': 0.875, 'f1': 0.765625, 'number': 112}"
+PreferredStockSharesAuthorized,"{'precision': 0.559322033898305, 'recall': 0.6666666666666666, 'f1': 0.608294930875576, 'number': 99}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.6071428571428571, 'recall': 0.49514563106796117, 'f1': 0.5454545454545455, 'number': 103}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.3825503355704698, 'recall': 0.38, 'f1': 0.38127090301003347, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.43410852713178294, 'recall': 0.7088607594936709, 'f1': 0.5384615384615384, 'number': 79}"
+SharePrice,"{'precision': 0.7014925373134329, 'recall': 0.49473684210526314, 'f1': 0.5802469135802469, 'number': 95}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.44651162790697674, 'recall': 0.5274725274725275, 'f1': 0.4836272040302267, 'number': 182}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.8270440251572327, 'recall': 0.7557471264367817, 'f1': 0.7897897897897898, 'number': 348}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.9338235294117647, 'recall': 0.6287128712871287, 'f1': 0.7514792899408284, 'number': 202}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.6103896103896104, 'recall': 0.47, 'f1': 0.5310734463276836, 'number': 100}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.28, 'recall': 0.13333333333333333, 'f1': 0.1806451612903226, 'number': 105}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.5611111111111111, 'recall': 0.8347107438016529, 'f1': 0.6710963455149502, 'number': 121}"
+TreasuryStockSharesAcquired,"{'precision': 0.5306122448979592, 'recall': 0.7289719626168224, 'f1': 0.6141732283464567, 'number': 214}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.3602941176470588, 'recall': 0.4188034188034188, 'f1': 0.38735177865612647, 'number': 117}"
+overall_precision,0.6223776223776224
+overall_recall,0.6491611962071481
+overall_f1,0.6354873259550161
+overall_accuracy,0.9842118796605811
+,
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.84, 'recall': 0.7446808510638298, 'f1': 0.7894736842105262, 'number': 141}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.949748743718593, 'recall': 0.9545454545454546, 'f1': 0.9521410579345088, 'number': 198}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.7543859649122807, 'recall': 0.9020979020979021, 'f1': 0.8216560509554139, 'number': 143}"
+CommonStockSharesAuthorized,"{'precision': 0.6013071895424836, 'recall': 0.7419354838709677, 'f1': 0.6642599277978339, 'number': 124}"
+CommonStockSharesOutstanding,"{'precision': 0.6099290780141844, 'recall': 0.7889908256880734, 'f1': 0.6880000000000001, 'number': 109}"
+PreferredStockDividendRatePercentage,"{'precision': 0.6402439024390244, 'recall': 0.9375, 'f1': 0.7608695652173914, 'number': 112}"
+PreferredStockSharesAuthorized,"{'precision': 0.8227848101265823, 'recall': 0.6565656565656566, 'f1': 0.7303370786516854, 'number': 99}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.7, 'recall': 0.4077669902912621, 'f1': 0.5153374233128835, 'number': 103}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.4025974025974026, 'recall': 0.41333333333333333, 'f1': 0.4078947368421053, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.41333333333333333, 'recall': 0.7848101265822784, 'f1': 0.5414847161572052, 'number': 79}"
+SharePrice,"{'precision': 0.5666666666666667, 'recall': 0.5368421052631579, 'f1': 0.5513513513513513, 'number': 95}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.4842105263157895, 'recall': 0.5054945054945055, 'f1': 0.49462365591397855, 'number': 182}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.8943894389438944, 'recall': 0.7787356321839081, 'f1': 0.8325652841781874, 'number': 348}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.8735632183908046, 'recall': 0.7524752475247525, 'f1': 0.8085106382978724, 'number': 202}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.6666666666666666, 'recall': 0.44, 'f1': 0.5301204819277109, 'number': 100}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.23376623376623376, 'recall': 0.17142857142857143, 'f1': 0.1978021978021978, 'number': 105}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.6883116883116883, 'recall': 0.8760330578512396, 'f1': 0.7709090909090909, 'number': 121}"
+TreasuryStockSharesAcquired,"{'precision': 0.5447470817120622, 'recall': 0.6542056074766355, 'f1': 0.5944798301486199, 'number': 214}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.3942857142857143, 'recall': 0.5897435897435898, 'f1': 0.47260273972602745, 'number': 117}"
+overall_precision,0.6523247744621791
+overall_recall,0.6856309263311452
+overall_f1,0.6685633001422475
+overall_accuracy,0.9853638467472358
+,
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.25, 'recall': 0.007751937984496124, 'f1': 0.015037593984962405, 'number': 129}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.9130434782608695, 'recall': 0.42857142857142855, 'f1': 0.5833333333333334, 'number': 147}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.46445497630331756, 'recall': 0.532608695652174, 'f1': 0.49620253164556966, 'number': 184}"
+CommonStockSharesAuthorized,"{'precision': 0.28, 'recall': 0.1044776119402985, 'f1': 0.15217391304347827, 'number': 134}"
+CommonStockSharesOutstanding,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 135}"
+PreferredStockDividendRatePercentage,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 115}"
+PreferredStockSharesAuthorized,"{'precision': 0.23148148148148148, 'recall': 0.21929824561403508, 'f1': 0.22522522522522523, 'number': 114}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.625, 'recall': 0.05813953488372093, 'f1': 0.10638297872340426, 'number': 86}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.1875, 'recall': 0.01694915254237288, 'f1': 0.031088082901554404, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.32599118942731276, 'recall': 0.5481481481481482, 'f1': 0.4088397790055249, 'number': 135}"
+SharePrice,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 144}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.23671497584541062, 'recall': 0.2076271186440678, 'f1': 0.22121896162528215, 'number': 236}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.9347826086956522, 'recall': 0.15985130111524162, 'f1': 0.273015873015873, 'number': 269}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.5555555555555556, 'recall': 0.11194029850746269, 'f1': 0.1863354037267081, 'number': 134}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 90}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 117}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 83}"
+TreasuryStockSharesAcquired,"{'precision': 0.3346774193548387, 'recall': 0.5496688741721855, 'f1': 0.41604010025062654, 'number': 151}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.1509433962264151, 'recall': 0.25806451612903225, 'f1': 0.1904761904761905, 'number': 93}"
+overall_precision,0.35424091233071986
+overall_recall,0.18593340815563036
+overall_f1,0.2438665358194308
+overall_accuracy,0.9743982891843364
+,
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.6435643564356436, 'recall': 0.5038759689922481, 'f1': 0.5652173913043478, 'number': 129}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.7810650887573964, 'recall': 0.8979591836734694, 'f1': 0.8354430379746836, 'number': 147}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.7845303867403315, 'recall': 0.7717391304347826, 'f1': 0.7780821917808218, 'number': 184}"
+CommonStockSharesAuthorized,"{'precision': 0.5384615384615384, 'recall': 0.5746268656716418, 'f1': 0.555956678700361, 'number': 134}"
+CommonStockSharesOutstanding,"{'precision': 0.6792452830188679, 'recall': 0.26666666666666666, 'f1': 0.38297872340425526, 'number': 135}"
+PreferredStockDividendRatePercentage,"{'precision': 0.7674418604651163, 'recall': 0.5739130434782609, 'f1': 0.6567164179104478, 'number': 115}"
+PreferredStockSharesAuthorized,"{'precision': 0.6115702479338843, 'recall': 0.6491228070175439, 'f1': 0.6297872340425532, 'number': 114}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.4431818181818182, 'recall': 0.45348837209302323, 'f1': 0.4482758620689655, 'number': 86}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.3404255319148936, 'recall': 0.3615819209039548, 'f1': 0.35068493150684926, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.5202702702702703, 'recall': 0.5703703703703704, 'f1': 0.5441696113074206, 'number': 135}"
+SharePrice,"{'precision': 0.5391304347826087, 'recall': 0.4305555555555556, 'f1': 0.47876447876447875, 'number': 144}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.3387096774193548, 'recall': 0.2669491525423729, 'f1': 0.29857819905213273, 'number': 236}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.8578947368421053, 'recall': 0.6059479553903345, 'f1': 0.7102396514161219, 'number': 269}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.9166666666666666, 'recall': 0.41044776119402987, 'f1': 0.5670103092783505, 'number': 134}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.375, 'recall': 0.06666666666666667, 'f1': 0.11320754716981134, 'number': 90}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.29411764705882354, 'recall': 0.042735042735042736, 'f1': 0.07462686567164178, 'number': 117}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.48148148148148145, 'recall': 0.46987951807228917, 'f1': 0.47560975609756095, 'number': 83}"
+TreasuryStockSharesAcquired,"{'precision': 0.3875, 'recall': 0.6158940397350994, 'f1': 0.4757033248081842, 'number': 151}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.25, 'recall': 0.4731182795698925, 'f1': 0.3271375464684015, 'number': 93}"
+overall_precision,0.5519287833827893
+overall_recall,0.48709315375982043
+overall_f1,0.5174880763116058
+overall_accuracy,0.980803760566506
+,
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.7280701754385965, 'recall': 0.6434108527131783, 'f1': 0.6831275720164609, 'number': 129}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.8461538461538461, 'recall': 0.8979591836734694, 'f1': 0.8712871287128713, 'number': 147}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.8253968253968254, 'recall': 0.8478260869565217, 'f1': 0.8364611260053619, 'number': 184}"
+CommonStockSharesAuthorized,"{'precision': 0.50920245398773, 'recall': 0.6194029850746269, 'f1': 0.5589225589225588, 'number': 134}"
+CommonStockSharesOutstanding,"{'precision': 0.5686274509803921, 'recall': 0.6444444444444445, 'f1': 0.6041666666666666, 'number': 135}"
+PreferredStockDividendRatePercentage,"{'precision': 0.6993464052287581, 'recall': 0.9304347826086956, 'f1': 0.7985074626865671, 'number': 115}"
+PreferredStockSharesAuthorized,"{'precision': 0.5526315789473685, 'recall': 0.7368421052631579, 'f1': 0.631578947368421, 'number': 114}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.42857142857142855, 'recall': 0.5581395348837209, 'f1': 0.48484848484848486, 'number': 86}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.3782051282051282, 'recall': 0.3333333333333333, 'f1': 0.35435435435435436, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.5082872928176796, 'recall': 0.6814814814814815, 'f1': 0.5822784810126582, 'number': 135}"
+SharePrice,"{'precision': 0.6929133858267716, 'recall': 0.6111111111111112, 'f1': 0.6494464944649446, 'number': 144}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.45188284518828453, 'recall': 0.4576271186440678, 'f1': 0.4547368421052632, 'number': 236}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.847457627118644, 'recall': 0.7434944237918215, 'f1': 0.792079207920792, 'number': 269}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.8301886792452831, 'recall': 0.6567164179104478, 'f1': 0.7333333333333334, 'number': 134}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.5714285714285714, 'recall': 0.3111111111111111, 'f1': 0.40287769784172667, 'number': 90}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.2549019607843137, 'recall': 0.1111111111111111, 'f1': 0.15476190476190474, 'number': 117}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.4695121951219512, 'recall': 0.927710843373494, 'f1': 0.6234817813765182, 'number': 83}"
+TreasuryStockSharesAcquired,"{'precision': 0.4444444444444444, 'recall': 0.7152317880794702, 'f1': 0.5482233502538071, 'number': 151}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.26851851851851855, 'recall': 0.3118279569892473, 'f1': 0.2885572139303483, 'number': 93}"
+overall_precision,0.5855539971949509
+overall_recall,0.6247661803217359
+overall_f1,0.604524886877828
+overall_accuracy,0.9831944640587488
+,
+CommonStockCapitalSharesReservedForFutureIssuance,"{'precision': 0.8260869565217391, 'recall': 0.7364341085271318, 'f1': 0.7786885245901639, 'number': 129}"
+CommonStockDividendsPerShareDeclared,"{'precision': 0.8933333333333333, 'recall': 0.9115646258503401, 'f1': 0.9023569023569025, 'number': 147}"
+CommonStockParOrStatedValuePerShare,"{'precision': 0.8090452261306532, 'recall': 0.875, 'f1': 0.8407310704960836, 'number': 184}"
+CommonStockSharesAuthorized,"{'precision': 0.5632183908045977, 'recall': 0.7313432835820896, 'f1': 0.6363636363636364, 'number': 134}"
+CommonStockSharesOutstanding,"{'precision': 0.6490066225165563, 'recall': 0.725925925925926, 'f1': 0.6853146853146853, 'number': 135}"
+PreferredStockDividendRatePercentage,"{'precision': 0.6625766871165644, 'recall': 0.9391304347826087, 'f1': 0.776978417266187, 'number': 115}"
+PreferredStockSharesAuthorized,"{'precision': 0.7543859649122807, 'recall': 0.7543859649122807, 'f1': 0.7543859649122807, 'number': 114}"
+ProceedsFromIssuanceOfCommonStock,"{'precision': 0.49122807017543857, 'recall': 0.32558139534883723, 'f1': 0.39160839160839156, 'number': 86}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.4476744186046512, 'recall': 0.4350282485875706, 'f1': 0.44126074498567336, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.5168539325842697, 'recall': 0.6814814814814815, 'f1': 0.5878594249201279, 'number': 135}"
+SharePrice,"{'precision': 0.6211180124223602, 'recall': 0.6944444444444444, 'f1': 0.6557377049180327, 'number': 144}"
+StockIssuedDuringPeriodSharesNewIssues,"{'precision': 0.47641509433962265, 'recall': 0.4279661016949153, 'f1': 0.45089285714285715, 'number': 236}"
+StockRepurchaseProgramAuthorizedAmount1,"{'precision': 0.9113924050632911, 'recall': 0.8029739776951673, 'f1': 0.8537549407114625, 'number': 269}"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,"{'precision': 0.8467741935483871, 'recall': 0.7835820895522388, 'f1': 0.813953488372093, 'number': 134}"
+StockRepurchasedAndRetiredDuringPeriodShares,"{'precision': 0.6578947368421053, 'recall': 0.2777777777777778, 'f1': 0.39062500000000006, 'number': 90}"
+StockRepurchasedDuringPeriodShares,"{'precision': 0.24175824175824176, 'recall': 0.18803418803418803, 'f1': 0.2115384615384615, 'number': 117}"
+TreasuryStockAcquiredAverageCostPerShare,"{'precision': 0.5984848484848485, 'recall': 0.9518072289156626, 'f1': 0.7348837209302325, 'number': 83}"
+TreasuryStockSharesAcquired,"{'precision': 0.4377880184331797, 'recall': 0.6291390728476821, 'f1': 0.516304347826087, 'number': 151}"
+TreasuryStockValueAcquiredCostMethod,"{'precision': 0.271523178807947, 'recall': 0.44086021505376344, 'f1': 0.3360655737704918, 'number': 93}"
+overall_precision,0.6209449929478138
+overall_recall,0.6588103254769921
+overall_f1,0.6393174804864767
+overall_accuracy,0.9845360824742269
+,
