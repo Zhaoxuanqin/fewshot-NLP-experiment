@@ -1,0 +1,4 @@
+check bert finbert 怎么encoding数字，打印一个文档
+跑完 label semantic有source domain
+跑完 finbert和bert 有source domain
+把训练数据集存下来到 每个seed存5组

@@ -1,0 +1,5 @@
+原数据集直接跑fewshot setting
+label definition encode representation （cls 和 averaged）
+（1）label name
+（2）label definition
+ （3）label name + label defiintion

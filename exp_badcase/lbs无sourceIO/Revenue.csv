@@ -1,0 +1,97 @@
+,0
+ConcentrationRiskPercentage1,"{'precision': 0.5689655172413793, 'recall': 0.14798206278026907, 'f1': 0.2348754448398577, 'number': 669}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.3764705882352941, 'recall': 0.3282051282051282, 'f1': 0.3506849315068494, 'number': 390}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.27906976744186046, 'recall': 0.2748091603053435, 'f1': 0.2769230769230769, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.056105610561056105, 'recall': 0.21794871794871795, 'f1': 0.08923884514435695, 'number': 78}"
+RevenueFromRelatedParties,"{'precision': 0.05517241379310345, 'recall': 0.043243243243243246, 'f1': 0.048484848484848485, 'number': 185}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.3993610223642173, 'recall': 0.32299741602067183, 'f1': 0.35714285714285715, 'number': 387}"
+Revenues,"{'precision': 0.05982905982905983, 'recall': 0.04, 'f1': 0.04794520547945205, 'number': 175}"
+overall_precision,0.2765598650927487
+overall_recall,0.2160737812911726
+overall_f1,0.24260355029585798
+overall_accuracy,0.9691495529584083
+,
+ConcentrationRiskPercentage1,"{'precision': 0.7754293262879789, 'recall': 0.8774289985052317, 'f1': 0.82328190743338, 'number': 669}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.5521739130434783, 'recall': 0.32564102564102565, 'f1': 0.4096774193548387, 'number': 390}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.38396624472573837, 'recall': 0.23155216284987276, 'f1': 0.28888888888888886, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.07643312101910828, 'recall': 0.15384615384615385, 'f1': 0.1021276595744681, 'number': 78}"
+RevenueFromRelatedParties,"{'precision': 0.08787878787878788, 'recall': 0.15675675675675677, 'f1': 0.11262135922330097, 'number': 185}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.6205128205128205, 'recall': 0.31266149870801035, 'f1': 0.4158075601374571, 'number': 387}"
+Revenues,"{'precision': 0.13111888111888112, 'recall': 0.42857142857142855, 'f1': 0.20080321285140562, 'number': 175}"
+overall_precision,0.420500403551251
+overall_recall,0.45761967501097933
+overall_f1,0.43827549947423766
+overall_accuracy,0.9754966281163223
+,
+ConcentrationRiskPercentage1,"{'precision': 0.7780784844384303, 'recall': 0.85949177877429, 'f1': 0.8167613636363636, 'number': 669}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.6194690265486725, 'recall': 0.5384615384615384, 'f1': 0.5761316872427983, 'number': 390}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.40268456375838924, 'recall': 0.15267175572519084, 'f1': 0.22140221402214022, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.03937007874015748, 'recall': 0.0641025641025641, 'f1': 0.048780487804878044, 'number': 78}"
+RevenueFromRelatedParties,"{'precision': 0.16321243523316062, 'recall': 0.34054054054054056, 'f1': 0.22066549912434327, 'number': 185}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.7285714285714285, 'recall': 0.3953488372093023, 'f1': 0.5125628140703518, 'number': 387}"
+Revenues,"{'precision': 0.20398009950248755, 'recall': 0.4685714285714286, 'f1': 0.28422876949740034, 'number': 175}"
+overall_precision,0.4880952380952381
+overall_recall,0.5041721563460694
+overall_f1,0.49600345647007993
+overall_accuracy,0.9781666717524641
+,
+ConcentrationRiskPercentage1,"{'precision': 0.8744113029827315, 'recall': 0.8325859491778774, 'f1': 0.8529862174578867, 'number': 669}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.6773399014778325, 'recall': 0.7051282051282052, 'f1': 0.6909547738693468, 'number': 390}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.41964285714285715, 'recall': 0.23918575063613232, 'f1': 0.3047001620745543, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.05303030303030303, 'recall': 0.08974358974358974, 'f1': 0.06666666666666667, 'number': 78}"
+RevenueFromRelatedParties,"{'precision': 0.2581699346405229, 'recall': 0.42702702702702705, 'f1': 0.32179226069246436, 'number': 185}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.8835616438356164, 'recall': 0.6666666666666666, 'f1': 0.7599410898379969, 'number': 387}"
+Revenues,"{'precision': 0.2714285714285714, 'recall': 0.4342857142857143, 'f1': 0.334065934065934, 'number': 175}"
+overall_precision,0.5911286780851999
+overall_recall,0.5911286780851999
+overall_f1,0.5911286780851999
+overall_accuracy,0.9818894754508559
+,
+ConcentrationRiskPercentage1,"{'precision': 0.6713286713286714, 'recall': 0.14678899082568808, 'f1': 0.2409033877038896, 'number': 654}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.44485294117647056, 'recall': 0.44, 'f1': 0.4424131627056673, 'number': 275}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.3265993265993266, 'recall': 0.35018050541516244, 'f1': 0.337979094076655, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.02586206896551724, 'recall': 0.1836734693877551, 'f1': 0.04534005037783376, 'number': 49}"
+RevenueFromRelatedParties,"{'precision': 0.05714285714285714, 'recall': 0.015810276679841896, 'f1': 0.024767801857585137, 'number': 253}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.3269230769230769, 'recall': 0.3253588516746411, 'f1': 0.32613908872901676, 'number': 209}"
+Revenues,"{'precision': 0.08955223880597014, 'recall': 0.05714285714285714, 'f1': 0.06976744186046512, 'number': 105}"
+overall_precision,0.28540925266903916
+overall_recall,0.22008781558726673
+overall_f1,0.2485280446234893
+overall_accuracy,0.9651582483152865
+,
+ConcentrationRiskPercentage1,"{'precision': 0.8502269288956127, 'recall': 0.8593272171253823, 'f1': 0.8547528517110266, 'number': 654}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.6428571428571429, 'recall': 0.4581818181818182, 'f1': 0.535031847133758, 'number': 275}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.43137254901960786, 'recall': 0.3176895306859206, 'f1': 0.3659043659043659, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.031496062992125984, 'recall': 0.08163265306122448, 'f1': 0.04545454545454545, 'number': 49}"
+RevenueFromRelatedParties,"{'precision': 0.06818181818181818, 'recall': 0.05928853754940711, 'f1': 0.06342494714587739, 'number': 253}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.4596774193548387, 'recall': 0.2727272727272727, 'f1': 0.34234234234234223, 'number': 209}"
+Revenues,"{'precision': 0.08834586466165413, 'recall': 0.44761904761904764, 'f1': 0.14756671899529045, 'number': 105}"
+overall_precision,0.43556201550387597
+overall_recall,0.4934138309549945
+overall_f1,0.46268656716417916
+overall_accuracy,0.9734618514114038
+,
+ConcentrationRiskPercentage1,"{'precision': 0.8398791540785498, 'recall': 0.8501529051987767, 'f1': 0.8449848024316109, 'number': 654}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.6015625, 'recall': 0.56, 'f1': 0.5800376647834276, 'number': 275}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.425531914893617, 'recall': 0.1444043321299639, 'f1': 0.21563342318059298, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.05555555555555555, 'recall': 0.12244897959183673, 'f1': 0.07643312101910828, 'number': 49}"
+RevenueFromRelatedParties,"{'precision': 0.44642857142857145, 'recall': 0.691699604743083, 'f1': 0.5426356589147286, 'number': 253}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.6916666666666667, 'recall': 0.39712918660287083, 'f1': 0.5045592705167173, 'number': 209}"
+Revenues,"{'precision': 0.12650602409638553, 'recall': 0.4, 'f1': 0.19221967963386727, 'number': 105}"
+overall_precision,0.5376782077393075
+overall_recall,0.579582875960483
+overall_f1,0.5578446909667194
+overall_accuracy,0.9779891927979805
+,
+ConcentrationRiskPercentage1,"{'precision': 0.9284497444633731, 'recall': 0.8333333333333334, 'f1': 0.8783239323126512, 'number': 654}"
+ContractWithCustomerLiabilityRevenueRecognized,"{'precision': 0.693950177935943, 'recall': 0.7090909090909091, 'f1': 0.7014388489208634, 'number': 275}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.42391304347826086, 'recall': 0.2815884476534296, 'f1': 0.33839479392624733, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.08333333333333333, 'recall': 0.1836734693877551, 'f1': 0.11464968152866241, 'number': 49}"
+RevenueFromRelatedParties,"{'precision': 0.5084745762711864, 'recall': 0.7114624505928854, 'f1': 0.5930807248764415, 'number': 253}"
+RevenueRemainingPerformanceObligation,"{'precision': 0.8352272727272727, 'recall': 0.7033492822966507, 'f1': 0.7636363636363637, 'number': 209}"
+Revenues,"{'precision': 0.20853080568720378, 'recall': 0.41904761904761906, 'f1': 0.27848101265822783, 'number': 105}"
+overall_precision,0.6301946344029458
+overall_recall,0.6575192096597146
+overall_f1,0.6435670158474348
+overall_accuracy,0.9818071811562454
+,

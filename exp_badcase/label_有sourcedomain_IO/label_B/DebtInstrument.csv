@@ -1,0 +1,145 @@
+,0
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8609406952965235, 'recall': 0.256238587948874, 'f1': 0.3949343339587242, 'number': 1643}"
+DebtInstrumentCarryingAmount,"{'precision': 0.10526315789473684, 'recall': 0.005376344086021506, 'f1': 0.010230179028132993, 'number': 372}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.05555555555555555, 'recall': 0.022222222222222223, 'f1': 0.031746031746031744, 'number': 135}"
+DebtInstrumentFaceAmount,"{'precision': 0.32829046898638425, 'recall': 0.484375, 'f1': 0.3913435527502254, 'number': 1344}"
+DebtInstrumentFairValue,"{'precision': 0.48148148148148145, 'recall': 0.23636363636363636, 'f1': 0.3170731707317073, 'number': 220}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.0933852140077821, 'recall': 0.06976744186046512, 'f1': 0.07986688851913476, 'number': 344}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.5325506937033084, 'recall': 0.2738748627881449, 'f1': 0.36172526277636824, 'number': 1822}"
+DebtInstrumentMaturityDate,"{'precision': 0.009838369641602248, 'recall': 0.08284023668639054, 'f1': 0.017587939698492462, 'number': 169}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.09651474530831099, 'recall': 0.2823529411764706, 'f1': 0.14385614385614384, 'number': 255}"
+DebtInstrumentTerm,"{'precision': 0.010309278350515464, 'recall': 0.004739336492890996, 'f1': 0.006493506493506494, 'number': 211}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.09722222222222222, 'recall': 0.05555555555555555, 'f1': 0.07070707070707069, 'number': 126}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.6534653465346535, 'recall': 0.039262343842950624, 'f1': 0.07407407407407408, 'number': 1681}"
+LongTermDebt,"{'precision': 0.05434782608695652, 'recall': 0.012919896640826873, 'f1': 0.020876826722338204, 'number': 387}"
+overall_precision,0.28488554405769834
+overall_recall,0.2086347456654036
+overall_f1,0.2408696228541128
+overall_accuracy,0.9651805118439319
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8884057971014493, 'recall': 0.3730979914790018, 'f1': 0.5255036433776253, 'number': 1643}"
+DebtInstrumentCarryingAmount,"{'precision': 0.11063829787234042, 'recall': 0.06989247311827956, 'f1': 0.08566721581548599, 'number': 372}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.43548387096774194, 'recall': 0.6, 'f1': 0.5046728971962617, 'number': 135}"
+DebtInstrumentFaceAmount,"{'precision': 0.4114002478314746, 'recall': 0.49404761904761907, 'f1': 0.4489519945909398, 'number': 1344}"
+DebtInstrumentFairValue,"{'precision': 0.2697495183044316, 'recall': 0.6363636363636364, 'f1': 0.37889039242219213, 'number': 220}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.18787878787878787, 'recall': 0.18023255813953487, 'f1': 0.18397626112759644, 'number': 344}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.6366475793857366, 'recall': 0.6712403951701427, 'f1': 0.653486508148544, 'number': 1822}"
+DebtInstrumentMaturityDate,"{'precision': 0.07157057654075547, 'recall': 0.21301775147928995, 'f1': 0.10714285714285715, 'number': 169}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.6013986013986014, 'recall': 0.6745098039215687, 'f1': 0.6358595194085027, 'number': 255}"
+DebtInstrumentTerm,"{'precision': 0.2076923076923077, 'recall': 0.2559241706161137, 'f1': 0.22929936305732485, 'number': 211}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.2146341463414634, 'recall': 0.3492063492063492, 'f1': 0.26586102719033233, 'number': 126}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.6446927374301676, 'recall': 0.34324806662700774, 'f1': 0.4479813664596274, 'number': 1681}"
+LongTermDebt,"{'precision': 0.050505050505050504, 'recall': 0.012919896640826873, 'f1': 0.0205761316872428, 'number': 387}"
+overall_precision,0.47746351543329457
+overall_recall,0.42450338730049375
+overall_f1,0.44942864089472406
+overall_accuracy,0.9735901032846105
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8578571428571429, 'recall': 0.7309799147900182, 'f1': 0.7893526125534013, 'number': 1643}"
+DebtInstrumentCarryingAmount,"{'precision': 0.20952380952380953, 'recall': 0.11827956989247312, 'f1': 0.15120274914089346, 'number': 372}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.7088607594936709, 'recall': 0.8296296296296296, 'f1': 0.7645051194539249, 'number': 135}"
+DebtInstrumentFaceAmount,"{'precision': 0.5176579925650557, 'recall': 0.41443452380952384, 'f1': 0.4603305785123967, 'number': 1344}"
+DebtInstrumentFairValue,"{'precision': 0.33212996389891697, 'recall': 0.8363636363636363, 'f1': 0.47545219638242897, 'number': 220}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.3449074074074074, 'recall': 0.4331395348837209, 'f1': 0.38402061855670105, 'number': 344}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.7276243093922652, 'recall': 0.7228320526893524, 'f1': 0.7252202643171806, 'number': 1822}"
+DebtInstrumentMaturityDate,"{'precision': 0.1059190031152648, 'recall': 0.40236686390532544, 'f1': 0.1676942046855734, 'number': 169}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.757201646090535, 'recall': 0.7215686274509804, 'f1': 0.7389558232931727, 'number': 255}"
+DebtInstrumentTerm,"{'precision': 0.2936802973977695, 'recall': 0.3744075829383886, 'f1': 0.3291666666666667, 'number': 211}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.3727810650887574, 'recall': 0.5, 'f1': 0.4271186440677966, 'number': 126}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.666010498687664, 'recall': 0.6038072575847709, 'f1': 0.6333853354134165, 'number': 1681}"
+LongTermDebt,"{'precision': 0.06072874493927125, 'recall': 0.03875968992248062, 'f1': 0.047318611987381694, 'number': 387}"
+overall_precision,0.5711014426379666
+overall_recall,0.5727408428062923
+overall_f1,0.5719199678954308
+overall_accuracy,0.9773369869386035
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.854287556415216, 'recall': 0.8064516129032258, 'f1': 0.8296806512210393, 'number': 1643}"
+DebtInstrumentCarryingAmount,"{'precision': 0.1829652996845426, 'recall': 0.15591397849462366, 'f1': 0.1683599419448476, 'number': 372}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.7650602409638554, 'recall': 0.9407407407407408, 'f1': 0.8438538205980065, 'number': 135}"
+DebtInstrumentFaceAmount,"{'precision': 0.5572916666666666, 'recall': 0.47767857142857145, 'f1': 0.5144230769230769, 'number': 1344}"
+DebtInstrumentFairValue,"{'precision': 0.3787575150300601, 'recall': 0.8590909090909091, 'f1': 0.525730180806676, 'number': 220}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.42954545454545456, 'recall': 0.5494186046511628, 'f1': 0.48214285714285715, 'number': 344}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.7895033860045146, 'recall': 0.7678375411635565, 'f1': 0.778519755147468, 'number': 1822}"
+DebtInstrumentMaturityDate,"{'precision': 0.18309859154929578, 'recall': 0.6923076923076923, 'f1': 0.28960396039603964, 'number': 169}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.7519685039370079, 'recall': 0.7490196078431373, 'f1': 0.75049115913556, 'number': 255}"
+DebtInstrumentTerm,"{'precision': 0.40764331210191085, 'recall': 0.6066350710900474, 'f1': 0.48761904761904773, 'number': 211}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.3263598326359833, 'recall': 0.6190476190476191, 'f1': 0.42739726027397257, 'number': 126}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.7344674556213018, 'recall': 0.5907198096371208, 'f1': 0.6547972304648862, 'number': 1681}"
+LongTermDebt,"{'precision': 0.08009708737864078, 'recall': 0.08527131782945736, 'f1': 0.08260325406758448, 'number': 387}"
+overall_precision,0.6005270670912485
+overall_recall,0.6279710644161213
+overall_f1,0.6139425235743152
+overall_accuracy,0.9779475363603986
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8175824175824176, 'recall': 0.2831050228310502, 'f1': 0.42057659694742794, 'number': 1314}"
+DebtInstrumentCarryingAmount,"{'precision': 0.22727272727272727, 'recall': 0.014792899408284023, 'f1': 0.027777777777777776, 'number': 338}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.023809523809523808, 'recall': 0.008130081300813009, 'f1': 0.012121212121212121, 'number': 123}"
+DebtInstrumentFaceAmount,"{'precision': 0.3331269349845201, 'recall': 0.509469696969697, 'f1': 0.40284537626357175, 'number': 1056}"
+DebtInstrumentFairValue,"{'precision': 0.2692307692307692, 'recall': 0.12389380530973451, 'f1': 0.16969696969696968, 'number': 113}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.044444444444444446, 'recall': 0.029411764705882353, 'f1': 0.035398230088495575, 'number': 272}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.5050251256281407, 'recall': 0.2894168466522678, 'f1': 0.3679633867276888, 'number': 1389}"
+DebtInstrumentMaturityDate,"{'precision': 0.023580786026200874, 'recall': 0.1656441717791411, 'f1': 0.04128440366972477, 'number': 163}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.07484076433121019, 'recall': 0.3092105263157895, 'f1': 0.12051282051282051, 'number': 152}"
+DebtInstrumentTerm,"{'precision': 0.0707070707070707, 'recall': 0.04487179487179487, 'f1': 0.05490196078431373, 'number': 156}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.3170731707317073, 'recall': 0.09352517985611511, 'f1': 0.14444444444444443, 'number': 139}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.4375, 'recall': 0.02625656414103526, 'f1': 0.04953998584571833, 'number': 1333}"
+LongTermDebt,"{'precision': 0.08235294117647059, 'recall': 0.021341463414634148, 'f1': 0.03389830508474576, 'number': 328}"
+overall_precision,0.2816793893129771
+overall_recall,0.21465968586387435
+overall_f1,0.24364476724991746
+overall_accuracy,0.9668023788341609
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8698884758364313, 'recall': 0.3561643835616438, 'f1': 0.5053995680345572, 'number': 1314}"
+DebtInstrumentCarryingAmount,"{'precision': 0.24324324324324326, 'recall': 0.13313609467455623, 'f1': 0.17208413001912048, 'number': 338}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.33783783783783783, 'recall': 0.4065040650406504, 'f1': 0.36900369003690037, 'number': 123}"
+DebtInstrumentFaceAmount,"{'precision': 0.42604501607717044, 'recall': 0.5018939393939394, 'f1': 0.4608695652173913, 'number': 1056}"
+DebtInstrumentFairValue,"{'precision': 0.16619718309859155, 'recall': 0.5221238938053098, 'f1': 0.25213675213675213, 'number': 113}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.24074074074074073, 'recall': 0.23897058823529413, 'f1': 0.23985239852398524, 'number': 272}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.6188023180940115, 'recall': 0.6918646508279338, 'f1': 0.6532970768184908, 'number': 1389}"
+DebtInstrumentMaturityDate,"{'precision': 0.05893909626719057, 'recall': 0.18404907975460122, 'f1': 0.08928571428571429, 'number': 163}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.5069124423963134, 'recall': 0.7236842105263158, 'f1': 0.5962059620596207, 'number': 152}"
+DebtInstrumentTerm,"{'precision': 0.20725388601036268, 'recall': 0.2564102564102564, 'f1': 0.2292263610315186, 'number': 156}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.39568345323741005, 'recall': 0.39568345323741005, 'f1': 0.39568345323741005, 'number': 139}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.5670241286863271, 'recall': 0.31732933233308325, 'f1': 0.4069264069264069, 'number': 1333}"
+LongTermDebt,"{'precision': 0.06474820143884892, 'recall': 0.027439024390243903, 'f1': 0.03854389721627409, 'number': 328}"
+overall_precision,0.4562219371391918
+overall_recall,0.41375799883653286
+overall_f1,0.4339536302623551
+overall_accuracy,0.9738056525797729
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8295880149812734, 'recall': 0.6742770167427702, 'f1': 0.7439126784214947, 'number': 1314}"
+DebtInstrumentCarryingAmount,"{'precision': 0.3567251461988304, 'recall': 0.1804733727810651, 'f1': 0.23968565815324164, 'number': 338}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.648854961832061, 'recall': 0.6910569105691057, 'f1': 0.6692913385826771, 'number': 123}"
+DebtInstrumentFaceAmount,"{'precision': 0.5144508670520231, 'recall': 0.42140151515151514, 'f1': 0.463300364393545, 'number': 1056}"
+DebtInstrumentFairValue,"{'precision': 0.21288515406162464, 'recall': 0.672566371681416, 'f1': 0.3234042553191489, 'number': 113}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.3501199040767386, 'recall': 0.5367647058823529, 'f1': 0.4238026124818578, 'number': 272}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.7186813186813187, 'recall': 0.7062634989200864, 'f1': 0.7124183006535948, 'number': 1389}"
+DebtInstrumentMaturityDate,"{'precision': 0.1016949152542373, 'recall': 0.36809815950920244, 'f1': 0.15936254980079684, 'number': 163}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.6727272727272727, 'recall': 0.7302631578947368, 'f1': 0.7003154574132492, 'number': 152}"
+DebtInstrumentTerm,"{'precision': 0.24528301886792453, 'recall': 0.3333333333333333, 'f1': 0.2826086956521739, 'number': 156}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.5109489051094891, 'recall': 0.5035971223021583, 'f1': 0.5072463768115942, 'number': 139}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.6028938906752411, 'recall': 0.5626406601650412, 'f1': 0.5820721769499417, 'number': 1333}"
+LongTermDebt,"{'precision': 0.11328125, 'recall': 0.08841463414634146, 'f1': 0.09931506849315068, 'number': 328}"
+overall_precision,0.5376898824878189
+overall_recall,0.5456660849331006
+overall_f1,0.5416486213367981
+overall_accuracy,0.9766236156701537
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8425925925925926, 'recall': 0.7617960426179604, 'f1': 0.8001598721023181, 'number': 1314}"
+DebtInstrumentCarryingAmount,"{'precision': 0.3382899628252788, 'recall': 0.2692307692307692, 'f1': 0.2998352553542009, 'number': 338}"
+DebtInstrumentConvertibleConversionPrice1,"{'precision': 0.6907894736842105, 'recall': 0.8536585365853658, 'f1': 0.7636363636363636, 'number': 123}"
+DebtInstrumentFaceAmount,"{'precision': 0.55, 'recall': 0.4583333333333333, 'f1': 0.5, 'number': 1056}"
+DebtInstrumentFairValue,"{'precision': 0.2767527675276753, 'recall': 0.6637168141592921, 'f1': 0.39062500000000006, 'number': 113}"
+DebtInstrumentInterestRateEffectivePercentage,"{'precision': 0.43349753694581283, 'recall': 0.6470588235294118, 'f1': 0.5191740412979351, 'number': 272}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.774390243902439, 'recall': 0.7314614830813535, 'f1': 0.7523139577934099, 'number': 1389}"
+DebtInstrumentMaturityDate,"{'precision': 0.14135338345864662, 'recall': 0.5766871165644172, 'f1': 0.22705314009661837, 'number': 163}"
+DebtInstrumentRedemptionPricePercentage,"{'precision': 0.7243589743589743, 'recall': 0.743421052631579, 'f1': 0.7337662337662338, 'number': 152}"
+DebtInstrumentTerm,"{'precision': 0.319047619047619, 'recall': 0.42948717948717946, 'f1': 0.36612021857923494, 'number': 156}"
+DebtInstrumentUnamortizedDiscount,"{'precision': 0.38974358974358975, 'recall': 0.5467625899280576, 'f1': 0.4550898203592814, 'number': 139}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.6928361138370952, 'recall': 0.5296324081020255, 'f1': 0.6003401360544218, 'number': 1333}"
+LongTermDebt,"{'precision': 0.13842482100238662, 'recall': 0.17682926829268292, 'f1': 0.15528781793842034, 'number': 328}"
+overall_precision,0.5687482497899748
+overall_recall,0.5907504363001745
+overall_f1,0.5795405906691398
+overall_accuracy,0.9761634506242906
+,

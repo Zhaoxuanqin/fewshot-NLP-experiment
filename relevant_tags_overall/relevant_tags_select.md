@@ -1,0 +1,32 @@
+挑选label的标准是：
+1. 在train dataset 比例是否超过 0.1（之所以看train的比例因为train数据集一般数据较多），超过0.1后在test和 validation check这个label是否出现过，如果在validation和test也出现过，则添加。
+2. 如果按照第一条规则选中B- XXXX标签，则必须添加I-XXXX标签
+3. 如果一个entity 的 relevant tags总数非常少，那就算比列很高，也不再添加。
+4. 我删除了一些 dataset，因为有些dataset重叠了， 比如 Loss和LossContingency重叠，则删除LossContingency dataset， etc
+以下为初选的label
+1. Amortization：
+B-InterestExpenseDebt，B-FiniteLivedIntangibleAssetUsefulLife，I-FiniteLivedIntangibleAssetUsefulLife，
+2. BusinessAcquisition：
+B-PaymentsToAcquireBusinessesGross，BusinessCombinationConsiderationTransferred1
+3. BusinessCombination：
+PaymentsToAcquireBusinessesGross，B-Goodwill，B-AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife， I-AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife
+B-BusinessAcquisitionPercentageOfVotingInterestsAcquired
+4. DebtInstrument：
+B-LineOfCreditFacilityMaximumBorrowingCapacity，B-LongTermDebt
+5.Equity：
+B-AllocatedShareBasedCompensationExpense 
+6. LineOfCredit：B-DebtInstrumentBasisSpreadOnVariableRate1，B-LettersOfCreditOutstandingAmount， B-DebtInstrumentFaceAmount
+7. Loss：
+B-DebtInstrumentInterestRateStatedPercentage
+8. OperatingLease：
+B-CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption，B-LeaseAndRentalExpense
+9. Revenue：
+B-ConcentrationRiskPercentage1
+10. SharebasedCompensation：
+B-SharebasedCompensationArrangementBySharebasedPaymentAwardAwardVestingRightsPercentage
+11. Stock：
+B-SharePrice, 
+12. Tax：
+B-ConcentrationRiskPercentage1,
+13. Transaction：
+B-SaleOfStockPricePerShare

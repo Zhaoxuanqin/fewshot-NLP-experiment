@@ -1,0 +1,137 @@
+,0
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 111}"
+LeaseAndRentalExpense,"{'precision': 0.07142857142857142, 'recall': 0.19444444444444445, 'f1': 0.1044776119402985, 'number': 36}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.15625, 'recall': 0.04310344827586207, 'f1': 0.06756756756756757, 'number': 116}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.39896373056994816, 'recall': 0.34684684684684686, 'f1': 0.37108433734939755, 'number': 222}"
+OperatingLeaseCost,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 138}"
+OperatingLeaseExpense,"{'precision': 0.05785123966942149, 'recall': 0.0673076923076923, 'f1': 0.062222222222222213, 'number': 104}"
+OperatingLeaseLiability,"{'precision': 0.5, 'recall': 0.05027932960893855, 'f1': 0.09137055837563453, 'number': 179}"
+OperatingLeasePayments,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 105}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.5882352941176471, 'recall': 0.09852216748768473, 'f1': 0.1687763713080169, 'number': 203}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.8617021276595744, 'recall': 0.7168141592920354, 'f1': 0.782608695652174, 'number': 113}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.8636363636363636, 'recall': 0.6386554621848739, 'f1': 0.7342995169082125, 'number': 119}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.05102040816326531, 'recall': 0.7692307692307693, 'f1': 0.0956937799043062, 'number': 26}"
+overall_precision,0.2788550323176362
+overall_recall,0.20516304347826086
+overall_f1,0.23639921722113505
+overall_accuracy,0.966879489225858
+,
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.8666666666666667, 'recall': 0.5855855855855856, 'f1': 0.6989247311827956, 'number': 111}"
+LeaseAndRentalExpense,"{'precision': 0.07575757575757576, 'recall': 0.1388888888888889, 'f1': 0.09803921568627452, 'number': 36}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.504950495049505, 'recall': 0.4396551724137931, 'f1': 0.4700460829493088, 'number': 116}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.49038461538461536, 'recall': 0.4594594594594595, 'f1': 0.47441860465116276, 'number': 222}"
+OperatingLeaseCost,"{'precision': 0.3068181818181818, 'recall': 0.1956521739130435, 'f1': 0.23893805309734512, 'number': 138}"
+OperatingLeaseExpense,"{'precision': 0.1793478260869565, 'recall': 0.3173076923076923, 'f1': 0.22916666666666663, 'number': 104}"
+OperatingLeaseLiability,"{'precision': 0.5876288659793815, 'recall': 0.31843575418994413, 'f1': 0.4130434782608695, 'number': 179}"
+OperatingLeasePayments,"{'precision': 0.44285714285714284, 'recall': 0.29523809523809524, 'f1': 0.35428571428571426, 'number': 105}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.5662650602409639, 'recall': 0.6945812807881774, 'f1': 0.6238938053097345, 'number': 203}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.8604651162790697, 'recall': 0.9823008849557522, 'f1': 0.9173553719008265, 'number': 113}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.6441717791411042, 'recall': 0.8823529411764706, 'f1': 0.7446808510638299, 'number': 119}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.10909090909090909, 'recall': 0.46153846153846156, 'f1': 0.1764705882352941, 'number': 26}"
+overall_precision,0.4805194805194805
+overall_recall,0.5027173913043478
+overall_f1,0.4913678618857902
+overall_accuracy,0.9762921928547955
+,
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.7916666666666666, 'recall': 0.8558558558558559, 'f1': 0.8225108225108225, 'number': 111}"
+LeaseAndRentalExpense,"{'precision': 0.18, 'recall': 0.25, 'f1': 0.20930232558139533, 'number': 36}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.6942148760330579, 'recall': 0.7241379310344828, 'f1': 0.7088607594936709, 'number': 116}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.5862068965517241, 'recall': 0.6126126126126126, 'f1': 0.5991189427312774, 'number': 222}"
+OperatingLeaseCost,"{'precision': 0.7157894736842105, 'recall': 0.4927536231884058, 'f1': 0.5836909871244635, 'number': 138}"
+OperatingLeaseExpense,"{'precision': 0.3448275862068966, 'recall': 0.38461538461538464, 'f1': 0.3636363636363637, 'number': 104}"
+OperatingLeaseLiability,"{'precision': 0.6129032258064516, 'recall': 0.5307262569832403, 'f1': 0.5688622754491017, 'number': 179}"
+OperatingLeasePayments,"{'precision': 0.8541666666666666, 'recall': 0.780952380952381, 'f1': 0.8159203980099502, 'number': 105}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.6462882096069869, 'recall': 0.729064039408867, 'f1': 0.6851851851851851, 'number': 203}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.8527131782945736, 'recall': 0.9734513274336283, 'f1': 0.9090909090909091, 'number': 113}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.8014184397163121, 'recall': 0.9495798319327731, 'f1': 0.8692307692307694, 'number': 119}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.11818181818181818, 'recall': 0.5, 'f1': 0.1911764705882353, 'number': 26}"
+overall_precision,0.622961104140527
+overall_recall,0.6745923913043478
+overall_f1,0.6477495107632094
+overall_accuracy,0.9823717196375757
+,
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.7716535433070866, 'recall': 0.8828828828828829, 'f1': 0.8235294117647058, 'number': 111}"
+LeaseAndRentalExpense,"{'precision': 0.2, 'recall': 0.3333333333333333, 'f1': 0.25, 'number': 36}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.71900826446281, 'recall': 0.75, 'f1': 0.7341772151898734, 'number': 116}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.6859504132231405, 'recall': 0.7477477477477478, 'f1': 0.7155172413793104, 'number': 222}"
+OperatingLeaseCost,"{'precision': 0.8, 'recall': 0.6376811594202898, 'f1': 0.7096774193548386, 'number': 138}"
+OperatingLeaseExpense,"{'precision': 0.5071428571428571, 'recall': 0.6826923076923077, 'f1': 0.5819672131147541, 'number': 104}"
+OperatingLeaseLiability,"{'precision': 0.6122448979591837, 'recall': 0.6703910614525139, 'f1': 0.6399999999999999, 'number': 179}"
+OperatingLeasePayments,"{'precision': 0.7768595041322314, 'recall': 0.8952380952380953, 'f1': 0.831858407079646, 'number': 105}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.7431693989071039, 'recall': 0.6699507389162561, 'f1': 0.7046632124352331, 'number': 203}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.896, 'recall': 0.9911504424778761, 'f1': 0.9411764705882352, 'number': 113}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.7671232876712328, 'recall': 0.9411764705882353, 'f1': 0.8452830188679246, 'number': 119}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.16, 'recall': 0.15384615384615385, 'f1': 0.1568627450980392, 'number': 26}"
+overall_precision,0.6892230576441103
+overall_recall,0.7472826086956522
+overall_f1,0.7170795306388528
+overall_accuracy,0.9851650157269611
+,
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 83}"
+LeaseAndRentalExpense,"{'precision': 0.28125, 'recall': 0.5, 'f1': 0.36, 'number': 72}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.3142857142857143, 'recall': 0.08029197080291971, 'f1': 0.12790697674418602, 'number': 137}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.3812154696132597, 'recall': 0.3415841584158416, 'f1': 0.3603133159268929, 'number': 202}"
+OperatingLeaseCost,"{'precision': 0.125, 'recall': 0.012658227848101266, 'f1': 0.022988505747126433, 'number': 79}"
+OperatingLeaseExpense,"{'precision': 0.12222222222222222, 'recall': 0.07586206896551724, 'f1': 0.09361702127659574, 'number': 145}"
+OperatingLeaseLiability,"{'precision': 0.5263157894736842, 'recall': 0.05714285714285714, 'f1': 0.10309278350515463, 'number': 175}"
+OperatingLeasePayments,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 82}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.6153846153846154, 'recall': 0.11059907834101383, 'f1': 0.18750000000000003, 'number': 217}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.8709677419354839, 'recall': 0.5869565217391305, 'f1': 0.7012987012987013, 'number': 92}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.7912087912087912, 'recall': 0.72, 'f1': 0.7539267015706805, 'number': 100}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.04491725768321513, 'recall': 0.59375, 'f1': 0.08351648351648353, 'number': 32}"
+overall_precision,0.2853159851301115
+overall_recall,0.21680790960451976
+overall_f1,0.2463884430176565
+overall_accuracy,0.9666413373860182
+,
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.6790123456790124, 'recall': 0.6626506024096386, 'f1': 0.6707317073170732, 'number': 83}"
+LeaseAndRentalExpense,"{'precision': 0.4125, 'recall': 0.4583333333333333, 'f1': 0.43421052631578944, 'number': 72}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.5161290322580645, 'recall': 0.35036496350364965, 'f1': 0.4173913043478261, 'number': 137}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.5606060606060606, 'recall': 0.5495049504950495, 'f1': 0.555, 'number': 202}"
+OperatingLeaseCost,"{'precision': 0.10975609756097561, 'recall': 0.11392405063291139, 'f1': 0.11180124223602485, 'number': 79}"
+OperatingLeaseExpense,"{'precision': 0.2702702702702703, 'recall': 0.27586206896551724, 'f1': 0.27303754266211605, 'number': 145}"
+OperatingLeaseLiability,"{'precision': 0.5945945945945946, 'recall': 0.37714285714285717, 'f1': 0.4615384615384616, 'number': 175}"
+OperatingLeasePayments,"{'precision': 0.3013698630136986, 'recall': 0.2682926829268293, 'f1': 0.2838709677419355, 'number': 82}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.6623931623931624, 'recall': 0.7142857142857143, 'f1': 0.6873614190687362, 'number': 217}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.8979591836734694, 'recall': 0.9565217391304348, 'f1': 0.9263157894736843, 'number': 92}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.7007874015748031, 'recall': 0.89, 'f1': 0.7841409691629956, 'number': 100}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.15447154471544716, 'recall': 0.59375, 'f1': 0.24516129032258063, 'number': 32}"
+overall_precision,0.5075966850828729
+overall_recall,0.5190677966101694
+overall_f1,0.513268156424581
+overall_accuracy,0.9764437689969605
+,
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.672566371681416, 'recall': 0.9156626506024096, 'f1': 0.7755102040816327, 'number': 83}"
+LeaseAndRentalExpense,"{'precision': 0.3684210526315789, 'recall': 0.2916666666666667, 'f1': 0.32558139534883723, 'number': 72}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.7355371900826446, 'recall': 0.6496350364963503, 'f1': 0.689922480620155, 'number': 137}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.5857142857142857, 'recall': 0.6089108910891089, 'f1': 0.5970873786407767, 'number': 202}"
+OperatingLeaseCost,"{'precision': 0.5217391304347826, 'recall': 0.45569620253164556, 'f1': 0.48648648648648646, 'number': 79}"
+OperatingLeaseExpense,"{'precision': 0.5217391304347826, 'recall': 0.41379310344827586, 'f1': 0.4615384615384615, 'number': 145}"
+OperatingLeaseLiability,"{'precision': 0.5487804878048781, 'recall': 0.5142857142857142, 'f1': 0.5309734513274337, 'number': 175}"
+OperatingLeasePayments,"{'precision': 0.7777777777777778, 'recall': 0.6829268292682927, 'f1': 0.7272727272727273, 'number': 82}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.6896551724137931, 'recall': 0.7373271889400922, 'f1': 0.712694877505568, 'number': 217}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.8888888888888888, 'recall': 0.9565217391304348, 'f1': 0.9214659685863874, 'number': 92}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.7479674796747967, 'recall': 0.92, 'f1': 0.8251121076233183, 'number': 100}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.12949640287769784, 'recall': 0.5625, 'f1': 0.2105263157894737, 'number': 32}"
+overall_precision,0.6003963011889035
+overall_recall,0.6419491525423728
+overall_f1,0.6204778156996587
+overall_accuracy,0.9806231003039514
+,
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,"{'precision': 0.7102803738317757, 'recall': 0.9156626506024096, 'f1': 0.7999999999999999, 'number': 83}"
+LeaseAndRentalExpense,"{'precision': 0.34523809523809523, 'recall': 0.4027777777777778, 'f1': 0.3717948717948718, 'number': 72}"
+LesseeOperatingLeaseRenewalTerm,"{'precision': 0.6935483870967742, 'recall': 0.6277372262773723, 'f1': 0.6590038314176245, 'number': 137}"
+LesseeOperatingLeaseTermOfContract,"{'precision': 0.6820083682008368, 'recall': 0.806930693069307, 'f1': 0.7392290249433106, 'number': 202}"
+OperatingLeaseCost,"{'precision': 0.6103896103896104, 'recall': 0.5949367088607594, 'f1': 0.6025641025641025, 'number': 79}"
+OperatingLeaseExpense,"{'precision': 0.5407407407407407, 'recall': 0.503448275862069, 'f1': 0.5214285714285715, 'number': 145}"
+OperatingLeaseLiability,"{'precision': 0.5770925110132159, 'recall': 0.7485714285714286, 'f1': 0.6517412935323385, 'number': 175}"
+OperatingLeasePayments,"{'precision': 0.7340425531914894, 'recall': 0.8414634146341463, 'f1': 0.7840909090909091, 'number': 82}"
+OperatingLeaseRightOfUseAsset,"{'precision': 0.797979797979798, 'recall': 0.728110599078341, 'f1': 0.7614457831325301, 'number': 217}"
+OperatingLeaseWeightedAverageDiscountRatePercent,"{'precision': 0.9191919191919192, 'recall': 0.9891304347826086, 'f1': 0.9528795811518325, 'number': 92}"
+OperatingLeaseWeightedAverageRemainingLeaseTerm1,"{'precision': 0.7863247863247863, 'recall': 0.92, 'f1': 0.847926267281106, 'number': 100}"
+OperatingLeasesRentExpenseNet,"{'precision': 0.1875, 'recall': 0.28125, 'f1': 0.225, 'number': 32}"
+overall_precision,0.6610716591349257
+overall_recall,0.7231638418079096
+overall_f1,0.690725126475548
+overall_accuracy,0.9837386018237082
+,

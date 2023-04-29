@@ -1,0 +1,113 @@
+,0
+AllocatedShareBasedCompensationExpense,"{'precision': 0.9165120593692022, 'recall': 0.6508563899868248, 'f1': 0.7611710323574731, 'number': 759}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 77}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.7562724014336918, 'recall': 0.44798301486199577, 'f1': 0.5626666666666666, 'number': 471}"
+EquityMethodInvestments,"{'precision': 0.16666666666666666, 'recall': 0.004975124378109453, 'f1': 0.00966183574879227, 'number': 201}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 118}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.6428571428571429, 'recall': 0.17647058823529413, 'f1': 0.27692307692307694, 'number': 561}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.21753986332574032, 'recall': 0.9744897959183674, 'f1': 0.3556797020484171, 'number': 196}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.09259259259259259, 'recall': 0.06578947368421052, 'f1': 0.07692307692307691, 'number': 76}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.15789473684210525, 'recall': 0.024793388429752067, 'f1': 0.04285714285714286, 'number': 121}"
+overall_precision,0.5112016293279023
+overall_recall,0.3891472868217054
+overall_f1,0.4419014084507042
+overall_accuracy,0.976647126669124
+,
+AllocatedShareBasedCompensationExpense,"{'precision': 0.942457231726283, 'recall': 0.7984189723320159, 'f1': 0.8644793152639088, 'number': 759}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.5945945945945946, 'recall': 0.2857142857142857, 'f1': 0.38596491228070173, 'number': 77}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.8708240534521158, 'recall': 0.8301486199575372, 'f1': 0.85, 'number': 471}"
+EquityMethodInvestments,"{'precision': 0.7032258064516129, 'recall': 0.5422885572139303, 'f1': 0.6123595505617977, 'number': 201}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.5078125, 'recall': 0.5508474576271186, 'f1': 0.5284552845528456, 'number': 118}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.7325227963525835, 'recall': 0.4295900178253119, 'f1': 0.5415730337078652, 'number': 561}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.5068493150684932, 'recall': 0.7551020408163265, 'f1': 0.6065573770491803, 'number': 196}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.1686746987951807, 'recall': 0.18421052631578946, 'f1': 0.1761006289308176, 'number': 76}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.6907216494845361, 'recall': 0.5537190082644629, 'f1': 0.6146788990825689, 'number': 121}"
+overall_precision,0.7514685946678716
+overall_recall,0.6445736434108527
+overall_f1,0.6939286459419988
+overall_accuracy,0.9854460707958288
+,
+AllocatedShareBasedCompensationExpense,"{'precision': 0.953030303030303, 'recall': 0.8287220026350461, 'f1': 0.8865398167723749, 'number': 759}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.58, 'recall': 0.37662337662337664, 'f1': 0.4566929133858268, 'number': 77}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.8896396396396397, 'recall': 0.8386411889596603, 'f1': 0.8633879781420765, 'number': 471}"
+EquityMethodInvestments,"{'precision': 0.7, 'recall': 0.6268656716417911, 'f1': 0.6614173228346456, 'number': 201}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.5607476635514018, 'recall': 0.5084745762711864, 'f1': 0.5333333333333333, 'number': 118}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.7642276422764228, 'recall': 0.5026737967914439, 'f1': 0.6064516129032258, 'number': 561}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.6967213114754098, 'recall': 0.8673469387755102, 'f1': 0.7727272727272727, 'number': 196}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.1889763779527559, 'recall': 0.3157894736842105, 'f1': 0.23645320197044334, 'number': 76}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.5782312925170068, 'recall': 0.7024793388429752, 'f1': 0.6343283582089552, 'number': 121}"
+overall_precision,0.7731958762886598
+overall_recall,0.6976744186046512
+overall_f1,0.7334963325183375
+overall_accuracy,0.9871345168309532
+,
+AllocatedShareBasedCompensationExpense,"{'precision': 0.9602941176470589, 'recall': 0.8603425559947299, 'f1': 0.9075747046560111, 'number': 759}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.625, 'recall': 0.5844155844155844, 'f1': 0.6040268456375839, 'number': 77}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.9006622516556292, 'recall': 0.8662420382165605, 'f1': 0.8831168831168832, 'number': 471}"
+EquityMethodInvestments,"{'precision': 0.7594339622641509, 'recall': 0.8009950248756219, 'f1': 0.7796610169491525, 'number': 201}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.7407407407407407, 'recall': 0.6779661016949152, 'f1': 0.7079646017699114, 'number': 118}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.8009950248756219, 'recall': 0.5739750445632799, 'f1': 0.6687435098650052, 'number': 561}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.7581967213114754, 'recall': 0.9438775510204082, 'f1': 0.8409090909090909, 'number': 196}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.32967032967032966, 'recall': 0.39473684210526316, 'f1': 0.35928143712574845, 'number': 76}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.6068965517241379, 'recall': 0.7272727272727273, 'f1': 0.6616541353383458, 'number': 121}"
+overall_precision,0.8192771084337349
+overall_recall,0.7643410852713178
+overall_f1,0.7908562261880889
+overall_accuracy,0.989262910072413
+,
+AllocatedShareBasedCompensationExpense,"{'precision': 0.9356136820925554, 'recall': 0.6748911465892597, 'f1': 0.7841483979763912, 'number': 689}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 125}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.7542087542087542, 'recall': 0.49122807017543857, 'f1': 0.5949535192563081, 'number': 456}"
+EquityMethodInvestments,"{'precision': 0.25, 'recall': 0.005917159763313609, 'f1': 0.011560693641618498, 'number': 169}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.35294117647058826, 'recall': 0.0759493670886076, 'f1': 0.125, 'number': 79}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.47337278106508873, 'recall': 0.2099737532808399, 'f1': 0.2909090909090909, 'number': 381}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.2138364779874214, 'recall': 0.9659090909090909, 'f1': 0.35015447991761073, 'number': 176}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.06666666666666667, 'recall': 0.026143790849673203, 'f1': 0.03755868544600939, 'number': 153}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 125}"
+overall_precision,0.5069370330843116
+overall_recall,0.40373990650233743
+overall_f1,0.4494913650343033
+overall_accuracy,0.9766096612845448
+,
+AllocatedShareBasedCompensationExpense,"{'precision': 0.9341021416803954, 'recall': 0.8229317851959361, 'f1': 0.875, 'number': 689}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.618421052631579, 'recall': 0.376, 'f1': 0.46766169154228854, 'number': 125}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.8580786026200873, 'recall': 0.8618421052631579, 'f1': 0.8599562363238512, 'number': 456}"
+EquityMethodInvestments,"{'precision': 0.7603305785123967, 'recall': 0.5443786982248521, 'f1': 0.6344827586206897, 'number': 169}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.4426229508196721, 'recall': 0.6835443037974683, 'f1': 0.537313432835821, 'number': 79}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.6345514950166113, 'recall': 0.5013123359580053, 'f1': 0.560117302052786, 'number': 381}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.5017064846416383, 'recall': 0.8352272727272727, 'f1': 0.6268656716417912, 'number': 176}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.08139534883720931, 'recall': 0.0457516339869281, 'f1': 0.058577405857740586, 'number': 153}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.8130841121495327, 'recall': 0.696, 'f1': 0.75, 'number': 125}"
+overall_precision,0.7300783049286044
+overall_recall,0.6736081597960051
+overall_f1,0.7007073386383731
+overall_accuracy,0.985631459541215
+,
+AllocatedShareBasedCompensationExpense,"{'precision': 0.9463414634146341, 'recall': 0.8447024673439768, 'f1': 0.892638036809816, 'number': 689}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.5652173913043478, 'recall': 0.416, 'f1': 0.4792626728110599, 'number': 125}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.8771929824561403, 'recall': 0.8771929824561403, 'f1': 0.8771929824561403, 'number': 456}"
+EquityMethodInvestments,"{'precision': 0.7323943661971831, 'recall': 0.6153846153846154, 'f1': 0.6688102893890676, 'number': 169}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.45714285714285713, 'recall': 0.6075949367088608, 'f1': 0.5217391304347826, 'number': 79}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.6419753086419753, 'recall': 0.5459317585301837, 'f1': 0.5900709219858156, 'number': 381}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.6709401709401709, 'recall': 0.8920454545454546, 'f1': 0.7658536585365854, 'number': 176}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.20149253731343283, 'recall': 0.17647058823529413, 'f1': 0.18815331010452963, 'number': 153}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.6405228758169934, 'recall': 0.784, 'f1': 0.7050359712230215, 'number': 125}"
+overall_precision,0.7432372505543238
+overall_recall,0.7122821929451764
+overall_f1,0.7274305555555556
+overall_accuracy,0.9869316598782057
+,
+AllocatedShareBasedCompensationExpense,"{'precision': 0.9582689335394127, 'recall': 0.8998548621190131, 'f1': 0.9281437125748503, 'number': 689}"
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.6528925619834711, 'recall': 0.632, 'f1': 0.6422764227642277, 'number': 125}"
+EquityMethodInvestmentOwnershipPercentage,"{'precision': 0.9122807017543859, 'recall': 0.9122807017543859, 'f1': 0.9122807017543859, 'number': 456}"
+EquityMethodInvestments,"{'precision': 0.7687861271676301, 'recall': 0.7869822485207101, 'f1': 0.7777777777777779, 'number': 169}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.67, 'recall': 0.8481012658227848, 'f1': 0.7486033519553073, 'number': 79}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"{'precision': 0.7777777777777778, 'recall': 0.6430446194225722, 'f1': 0.7040229885057472, 'number': 381}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"{'precision': 0.7616822429906542, 'recall': 0.9261363636363636, 'f1': 0.8358974358974358, 'number': 176}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,"{'precision': 0.48872180451127817, 'recall': 0.42483660130718953, 'f1': 0.45454545454545453, 'number': 153}"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,"{'precision': 0.849624060150376, 'recall': 0.904, 'f1': 0.875968992248062, 'number': 125}"
+overall_precision,0.8294066317626527
+overall_recall,0.8079048023799406
+overall_f1,0.8185145317545749
+overall_accuracy,0.9905536465312512
+,

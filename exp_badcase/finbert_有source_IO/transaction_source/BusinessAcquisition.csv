@@ -1,0 +1,73 @@
+,0
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.704225352112676, 'recall': 0.6493506493506493, 'f1': 0.6756756756756757, 'number': 77}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8378378378378378, 'recall': 0.18235294117647058, 'f1': 0.29951690821256044, 'number': 170}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5284974093264249, 'recall': 0.36428571428571427, 'f1': 0.4312896405919662, 'number': 280}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.3517915309446254, 'recall': 0.4595744680851064, 'f1': 0.3985239852398524, 'number': 235}"
+overall_precision,0.4786184210526316
+overall_recall,0.38188976377952755
+overall_f1,0.42481751824817515
+overall_accuracy,0.9813445327003256
+,
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.7, 'recall': 0.5454545454545454, 'f1': 0.6131386861313869, 'number': 77}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8715596330275229, 'recall': 0.5588235294117647, 'f1': 0.6810035842293906, 'number': 170}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5847750865051903, 'recall': 0.6035714285714285, 'f1': 0.59402460456942, 'number': 280}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.5602836879432624, 'recall': 0.33617021276595743, 'f1': 0.42021276595744683, 'number': 235}"
+overall_precision,0.6427378964941569
+overall_recall,0.505249343832021
+overall_f1,0.5657604702424688
+overall_accuracy,0.9854834291974801
+,
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.6867469879518072, 'recall': 0.7402597402597403, 'f1': 0.7125, 'number': 77}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8407643312101911, 'recall': 0.7764705882352941, 'f1': 0.8073394495412843, 'number': 170}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.6426116838487973, 'recall': 0.6678571428571428, 'f1': 0.6549912434325744, 'number': 280}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.5684210526315789, 'recall': 0.4595744680851064, 'f1': 0.508235294117647, 'number': 235}"
+overall_precision,0.6712898751733704
+overall_recall,0.6351706036745407
+overall_f1,0.6527309507754552
+overall_accuracy,0.98779634194589
+,
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.7176470588235294, 'recall': 0.7922077922077922, 'f1': 0.7530864197530864, 'number': 77}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8648648648648649, 'recall': 0.7529411764705882, 'f1': 0.8050314465408804, 'number': 170}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.660958904109589, 'recall': 0.6892857142857143, 'f1': 0.6748251748251748, 'number': 280}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.5991189427312775, 'recall': 0.5787234042553191, 'f1': 0.5887445887445887, 'number': 235}"
+overall_precision,0.6888297872340425
+overall_recall,0.6797900262467191
+overall_f1,0.6842800528401585
+overall_accuracy,0.988952798320095
+,
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.680672268907563, 'recall': 0.648, 'f1': 0.6639344262295083, 'number': 125}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.7407407407407407, 'recall': 0.13157894736842105, 'f1': 0.223463687150838, 'number': 152}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.577922077922078, 'recall': 0.3449612403100775, 'f1': 0.43203883495145634, 'number': 258}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.3541666666666667, 'recall': 0.49377593360995853, 'f1': 0.4124783362218371, 'number': 241}"
+overall_precision,0.4858490566037736
+overall_recall,0.39819587628865977
+overall_f1,0.43767705382436256
+overall_accuracy,0.9799701881870692
+,
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.7777777777777778, 'recall': 0.672, 'f1': 0.721030042918455, 'number': 125}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8846153846153846, 'recall': 0.45394736842105265, 'f1': 0.6, 'number': 152}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5408560311284046, 'recall': 0.5387596899224806, 'f1': 0.5398058252427184, 'number': 258}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.4827586206896552, 'recall': 0.29045643153526973, 'f1': 0.3626943005181347, 'number': 241}"
+overall_precision,0.6156462585034014
+overall_recall,0.46649484536082475
+overall_f1,0.530791788856305
+overall_accuracy,0.9837277187752314
+,
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.7142857142857143, 'recall': 0.72, 'f1': 0.7171314741035857, 'number': 125}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8846153846153846, 'recall': 0.756578947368421, 'f1': 0.8156028368794327, 'number': 152}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.6395759717314488, 'recall': 0.7015503875968992, 'f1': 0.6691312384473198, 'number': 258}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.6187845303867403, 'recall': 0.46473029045643155, 'f1': 0.5308056872037915, 'number': 241}"
+overall_precision,0.6916666666666667
+overall_recall,0.6417525773195877
+overall_f1,0.6657754010695187
+overall_accuracy,0.9879510589404384
+,
+BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,"{'precision': 0.7364341085271318, 'recall': 0.76, 'f1': 0.748031496062992, 'number': 125}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.9210526315789473, 'recall': 0.6907894736842105, 'f1': 0.7894736842105262, 'number': 152}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.6389891696750902, 'recall': 0.686046511627907, 'f1': 0.6616822429906541, 'number': 258}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.6192893401015228, 'recall': 0.5062240663900415, 'f1': 0.5570776255707763, 'number': 241}"
+overall_precision,0.6959553695955369
+overall_recall,0.6430412371134021
+overall_f1,0.6684527796383122
+overall_accuracy,0.9878889509968325
+,

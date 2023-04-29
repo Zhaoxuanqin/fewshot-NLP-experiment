@@ -1,0 +1,121 @@
+,0
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.2191467750126968, 'recall': 0.5252586731588558, 'f1': 0.30926357283640926, 'number': 1643}"
+DebtInstrumentFaceAmount,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 1344}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 445}"
+LineOfCredit,"{'precision': 0.09265614275909403, 'recall': 0.2556818181818182, 'f1': 0.13602015113350127, 'number': 528}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.17123287671232876, 'recall': 0.7309941520467836, 'f1': 0.27746947835738067, 'number': 171}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 193}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.05, 'recall': 0.05102040816326531, 'f1': 0.05050505050505051, 'number': 98}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 1681}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 393}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.04868913857677903, 'recall': 0.06103286384976526, 'f1': 0.05416666666666666, 'number': 213}"
+overall_precision,0.17537657546879803
+overall_recall,0.17007005514979878
+overall_f1,0.17268255769958382
+overall_accuracy,0.9678619259911571
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8725985844287159, 'recall': 0.5252586731588558, 'f1': 0.6557750759878419, 'number': 1643}"
+DebtInstrumentFaceAmount,"{'precision': 0.6536248561565017, 'recall': 0.4226190476190476, 'f1': 0.5133303208314505, 'number': 1344}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.3879310344827586, 'recall': 0.4044943820224719, 'f1': 0.39603960396039606, 'number': 445}"
+LineOfCredit,"{'precision': 0.2703962703962704, 'recall': 0.2196969696969697, 'f1': 0.24242424242424243, 'number': 528}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.2814814814814815, 'recall': 0.2222222222222222, 'f1': 0.2483660130718954, 'number': 171}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.04873294346978557, 'recall': 0.12953367875647667, 'f1': 0.07082152974504248, 'number': 193}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.12121212121212122, 'recall': 0.8571428571428571, 'f1': 0.21238938053097345, 'number': 98}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.5711267605633803, 'recall': 0.4824509220701963, 'f1': 0.5230570783618188, 'number': 1681}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.2753623188405797, 'recall': 0.38676844783715014, 'f1': 0.3216931216931217, 'number': 393}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.28487229862475444, 'recall': 0.6807511737089202, 'f1': 0.40166204986149584, 'number': 213}"
+overall_precision,0.4536741214057508
+overall_recall,0.44447756744671335
+overall_f1,0.44902876072880593
+overall_accuracy,0.9782092208340213
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.87444279346211, 'recall': 0.7163724893487523, 'f1': 0.7875543660086985, 'number': 1643}"
+DebtInstrumentFaceAmount,"{'precision': 0.6303827751196173, 'recall': 0.39211309523809523, 'f1': 0.48348623853211015, 'number': 1344}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.42557651991614254, 'recall': 0.45617977528089887, 'f1': 0.4403470715835141, 'number': 445}"
+LineOfCredit,"{'precision': 0.2469982847341338, 'recall': 0.2727272727272727, 'f1': 0.25922592259225924, 'number': 528}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.3854166666666667, 'recall': 0.21637426900584794, 'f1': 0.27715355805243447, 'number': 171}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.07008086253369272, 'recall': 0.13471502590673576, 'f1': 0.0921985815602837, 'number': 193}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.1895424836601307, 'recall': 0.8877551020408163, 'f1': 0.31238779174147213, 'number': 98}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.6340080971659919, 'recall': 0.46579417013682334, 'f1': 0.537037037037037, 'number': 1681}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.315702479338843, 'recall': 0.4860050890585242, 'f1': 0.3827655310621243, 'number': 393}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.4536741214057508, 'recall': 0.6666666666666666, 'f1': 0.5399239543726236, 'number': 213}"
+overall_precision,0.5247587407055846
+overall_recall,0.4944104933671188
+overall_f1,0.5091327705295472
+overall_accuracy,0.9800988863815657
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8681528662420382, 'recall': 0.8295800365185636, 'f1': 0.8484282601929661, 'number': 1643}"
+DebtInstrumentFaceAmount,"{'precision': 0.6883365200764818, 'recall': 0.5357142857142857, 'f1': 0.602510460251046, 'number': 1344}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.5068027210884354, 'recall': 0.6696629213483146, 'f1': 0.5769603097773476, 'number': 445}"
+LineOfCredit,"{'precision': 0.44787644787644787, 'recall': 0.4393939393939394, 'f1': 0.4435946462715105, 'number': 528}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.5106382978723404, 'recall': 0.42105263157894735, 'f1': 0.4615384615384615, 'number': 171}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.06315789473684211, 'recall': 0.15544041450777202, 'f1': 0.08982035928143713, 'number': 193}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.34297520661157027, 'recall': 0.8469387755102041, 'f1': 0.4882352941176471, 'number': 98}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.643613707165109, 'recall': 0.6145151695419393, 'f1': 0.6287279367011563, 'number': 1681}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.5641025641025641, 'recall': 0.5597964376590331, 'f1': 0.5619412515964239, 'number': 393}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.588, 'recall': 0.6901408450704225, 'f1': 0.6349892008639307, 'number': 213}"
+overall_precision,0.6150915750915751
+overall_recall,0.6257266358622745
+overall_f1,0.6203635288902025
+overall_accuracy,0.9840387473168584
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.22937817258883247, 'recall': 0.5502283105022832, 'f1': 0.3237796686072548, 'number': 1314}"
+DebtInstrumentFaceAmount,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 1056}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 331}"
+LineOfCredit,"{'precision': 0.09621993127147767, 'recall': 0.2725060827250608, 'f1': 0.14222222222222222, 'number': 411}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.13377926421404682, 'recall': 0.6956521739130435, 'f1': 0.2244039270687237, 'number': 115}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 170}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 100}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 1.0, 'recall': 0.0007501875468867217, 'f1': 0.0014992503748125937, 'number': 1333}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 275}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.025, 'recall': 0.02631578947368421, 'f1': 0.02564102564102564, 'number': 190}"
+overall_precision,0.17742246195338085
+overall_recall,0.17393767705382437
+overall_f1,0.17566278847987796
+overall_accuracy,0.9690652802613859
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8792029887920298, 'recall': 0.5372907153729072, 'f1': 0.6669815777042986, 'number': 1314}"
+DebtInstrumentFaceAmount,"{'precision': 0.6262482168330956, 'recall': 0.41571969696969696, 'f1': 0.4997154240182128, 'number': 1056}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.38333333333333336, 'recall': 0.4169184290030212, 'f1': 0.3994211287988423, 'number': 331}"
+LineOfCredit,"{'precision': 0.21558441558441557, 'recall': 0.20194647201946472, 'f1': 0.20854271356783918, 'number': 411}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.264, 'recall': 0.28695652173913044, 'f1': 0.275, 'number': 115}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.06748466257668712, 'recall': 0.12941176470588237, 'f1': 0.08870967741935484, 'number': 170}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.13051823416506717, 'recall': 0.68, 'f1': 0.2190016103059581, 'number': 100}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.528052805280528, 'recall': 0.48012003000750186, 'f1': 0.5029469548133595, 'number': 1333}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.2121951219512195, 'recall': 0.31636363636363635, 'f1': 0.25401459854014596, 'number': 275}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.3229665071770335, 'recall': 0.7105263157894737, 'f1': 0.444078947368421, 'number': 190}"
+overall_precision,0.44687321801938795
+overall_recall,0.44400377714825306
+overall_f1,0.44543387646835925
+overall_accuracy,0.9788506965141179
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8564940962761126, 'recall': 0.7176560121765602, 'f1': 0.7809523809523811, 'number': 1314}"
+DebtInstrumentFaceAmount,"{'precision': 0.5921625544267054, 'recall': 0.38636363636363635, 'f1': 0.467621776504298, 'number': 1056}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.42587601078167114, 'recall': 0.4773413897280967, 'f1': 0.45014245014245013, 'number': 331}"
+LineOfCredit,"{'precision': 0.2581967213114754, 'recall': 0.30656934306569344, 'f1': 0.2803114571746385, 'number': 411}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.3793103448275862, 'recall': 0.3826086956521739, 'f1': 0.38095238095238093, 'number': 115}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.1056338028169014, 'recall': 0.17647058823529413, 'f1': 0.13215859030837004, 'number': 170}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.19714285714285715, 'recall': 0.69, 'f1': 0.30666666666666664, 'number': 100}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.5984174085064293, 'recall': 0.45386346586646664, 'f1': 0.5162116040955632, 'number': 1333}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.3002257336343115, 'recall': 0.48363636363636364, 'f1': 0.3704735376044568, 'number': 275}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.5764192139737991, 'recall': 0.6947368421052632, 'f1': 0.6300715990453462, 'number': 190}"
+overall_precision,0.5210547028728847
+overall_recall,0.5000944287063267
+overall_f1,0.510359448780958
+overall_accuracy,0.9808431021921982
+,
+DebtInstrumentBasisSpreadOnVariableRate1,"{'precision': 0.8473895582329317, 'recall': 0.8028919330289194, 'f1': 0.8245408362641657, 'number': 1314}"
+DebtInstrumentFaceAmount,"{'precision': 0.6532544378698225, 'recall': 0.5227272727272727, 'f1': 0.5807469752761705, 'number': 1056}"
+LettersOfCreditOutstandingAmount,"{'precision': 0.5414746543778802, 'recall': 0.7099697885196374, 'f1': 0.6143790849673203, 'number': 331}"
+LineOfCredit,"{'precision': 0.4160919540229885, 'recall': 0.44038929440389296, 'f1': 0.42789598108747046, 'number': 411}"
+LineOfCreditFacilityCommitmentFeePercentage,"{'precision': 0.48760330578512395, 'recall': 0.5130434782608696, 'f1': 0.5, 'number': 115}"
+LineOfCreditFacilityCurrentBorrowingCapacity,"{'precision': 0.11345646437994723, 'recall': 0.2529411764705882, 'f1': 0.15664845173041894, 'number': 170}"
+LineOfCreditFacilityInterestRateAtPeriodEnd,"{'precision': 0.3177570093457944, 'recall': 0.68, 'f1': 0.43312101910828027, 'number': 100}"
+LineOfCreditFacilityMaximumBorrowingCapacity,"{'precision': 0.6008032128514056, 'recall': 0.5611402850712678, 'f1': 0.5802948021722266, 'number': 1333}"
+LineOfCreditFacilityRemainingBorrowingCapacity,"{'precision': 0.5222222222222223, 'recall': 0.5127272727272727, 'f1': 0.5174311926605505, 'number': 275}"
+LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage,"{'precision': 0.702020202020202, 'recall': 0.7315789473684211, 'f1': 0.7164948453608248, 'number': 190}"
+overall_precision,0.5980319346453769
+overall_recall,0.6083097261567516
+overall_f1,0.6031270480292107
+overall_accuracy,0.9839669293772214
+,

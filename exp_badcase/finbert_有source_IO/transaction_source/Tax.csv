@@ -1,0 +1,113 @@
+,0
+ConcentrationRiskPercentage1,"{'precision': 0.896551724137931, 'recall': 0.03886397608370702, 'f1': 0.07449856733524354, 'number': 669}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.6467780429594272, 'recall': 0.35611038107752957, 'f1': 0.45932203389830517, 'number': 761}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 168}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.24, 'recall': 0.09375, 'f1': 0.1348314606741573, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.7239263803680982, 'recall': 0.47484909456740443, 'f1': 0.5735115431348724, 'number': 497}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.782312925170068, 'recall': 0.2926208651399491, 'f1': 0.42592592592592593, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.2857142857142857, 'recall': 0.02564102564102564, 'f1': 0.04705882352941176, 'number': 78}"
+UnrecognizedTaxBenefits,"{'precision': 0.68, 'recall': 0.38857142857142857, 'f1': 0.49454545454545457, 'number': 175}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.14084507042253522, 'recall': 0.24096385542168675, 'f1': 0.17777777777777778, 'number': 83}"
+overall_precision,0.62
+overall_recall,0.25761772853185594
+overall_f1,0.3639921722113503
+overall_accuracy,0.9720194494352377
+,
+ConcentrationRiskPercentage1,"{'precision': 0.9259259259259259, 'recall': 0.5605381165919282, 'f1': 0.6983240223463687, 'number': 669}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.9385665529010239, 'recall': 0.7227332457293035, 'f1': 0.8166295471417967, 'number': 761}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.4497354497354497, 'recall': 0.5059523809523809, 'f1': 0.47619047619047616, 'number': 168}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.08737864077669903, 'recall': 0.28125, 'f1': 0.13333333333333333, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.7248062015503876, 'recall': 0.3762575452716298, 'f1': 0.49536423841059596, 'number': 497}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.7476190476190476, 'recall': 0.3994910941475827, 'f1': 0.5207296849087895, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.14035087719298245, 'recall': 0.3076923076923077, 'f1': 0.19277108433734938, 'number': 78}"
+UnrecognizedTaxBenefits,"{'precision': 0.5769230769230769, 'recall': 0.5142857142857142, 'f1': 0.5438066465256797, 'number': 175}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.3333333333333333, 'recall': 0.7108433734939759, 'f1': 0.45384615384615384, 'number': 83}"
+overall_precision,0.6552162849872774
+overall_recall,0.534972299168975
+overall_f1,0.58902020587114
+overall_accuracy,0.980424922415851
+,
+ConcentrationRiskPercentage1,"{'precision': 0.9395348837209302, 'recall': 0.905829596412556, 'f1': 0.9223744292237442, 'number': 669}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.9603174603174603, 'recall': 0.9540078843626807, 'f1': 0.9571522742254449, 'number': 761}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.7670454545454546, 'recall': 0.8035714285714286, 'f1': 0.7848837209302326, 'number': 168}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.449438202247191, 'recall': 0.625, 'f1': 0.5228758169934641, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.8696581196581197, 'recall': 0.8189134808853119, 'f1': 0.8435233160621762, 'number': 497}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.7963636363636364, 'recall': 0.5572519083969466, 'f1': 0.655688622754491, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.18235294117647058, 'recall': 0.3974358974358974, 'f1': 0.25, 'number': 78}"
+UnrecognizedTaxBenefits,"{'precision': 0.6100917431192661, 'recall': 0.76, 'f1': 0.6768447837150128, 'number': 175}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.6304347826086957, 'recall': 0.6987951807228916, 'f1': 0.6628571428571429, 'number': 83}"
+overall_precision,0.8151609553478713
+overall_recall,0.8154432132963989
+overall_f1,0.8153020598926779
+overall_accuracy,0.990124511565378
+,
+ConcentrationRiskPercentage1,"{'precision': 0.9170243204577968, 'recall': 0.9581464872944694, 'f1': 0.9371345029239766, 'number': 669}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.9650259067357513, 'recall': 0.9789750328515112, 'f1': 0.9719504240052185, 'number': 761}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.8388888888888889, 'recall': 0.8988095238095238, 'f1': 0.867816091954023, 'number': 168}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.47, 'recall': 0.734375, 'f1': 0.573170731707317, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.8661257606490872, 'recall': 0.8591549295774648, 'f1': 0.8626262626262626, 'number': 497}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.7526501766784452, 'recall': 0.5419847328244275, 'f1': 0.6301775147928994, 'number': 393}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.16891891891891891, 'recall': 0.32051282051282054, 'f1': 0.22123893805309736, 'number': 78}"
+UnrecognizedTaxBenefits,"{'precision': 0.7248677248677249, 'recall': 0.7828571428571428, 'f1': 0.7527472527472528, 'number': 175}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.6867469879518072, 'recall': 0.6867469879518072, 'f1': 0.6867469879518072, 'number': 83}"
+overall_precision,0.828978622327791
+overall_recall,0.8459141274238227
+overall_f1,0.8373607540702657
+overall_accuracy,0.9911422145719994
+,
+ConcentrationRiskPercentage1,"{'precision': 0.8717948717948718, 'recall': 0.05198776758409786, 'f1': 0.09812409812409811, 'number': 654}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.6013745704467354, 'recall': 0.32169117647058826, 'f1': 0.4191616766467066, 'number': 544}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 149}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.1111111111111111, 'recall': 0.015625, 'f1': 0.0273972602739726, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.6888111888111889, 'recall': 0.4436936936936937, 'f1': 0.5397260273972604, 'number': 444}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.7922077922077922, 'recall': 0.22021660649819494, 'f1': 0.34463276836158196, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 49}"
+UnrecognizedTaxBenefits,"{'precision': 0.6179775280898876, 'recall': 0.35947712418300654, 'f1': 0.45454545454545453, 'number': 153}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.168, 'recall': 0.21212121212121213, 'f1': 0.1875, 'number': 99}"
+overall_precision,0.5849462365591398
+overall_recall,0.22359227291409783
+overall_f1,0.3235206660719596
+overall_accuracy,0.9707701457032412
+,
+ConcentrationRiskPercentage1,"{'precision': 0.9623529411764706, 'recall': 0.6253822629969419, 'f1': 0.7581093605189991, 'number': 654}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.912718204488778, 'recall': 0.6727941176470589, 'f1': 0.7746031746031746, 'number': 544}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.6107784431137725, 'recall': 0.6845637583892618, 'f1': 0.6455696202531646, 'number': 149}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.17721518987341772, 'recall': 0.4375, 'f1': 0.25225225225225223, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.7063492063492064, 'recall': 0.4009009009009009, 'f1': 0.5114942528735632, 'number': 444}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.75, 'recall': 0.36823104693140796, 'f1': 0.49394673123486693, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.16489361702127658, 'recall': 0.6326530612244898, 'f1': 0.26160337552742613, 'number': 49}"
+UnrecognizedTaxBenefits,"{'precision': 0.5905511811023622, 'recall': 0.49019607843137253, 'f1': 0.5357142857142857, 'number': 153}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.3170731707317073, 'recall': 0.5252525252525253, 'f1': 0.39543726235741444, 'number': 99}"
+overall_precision,0.6655104063429138
+overall_recall,0.551993423756679
+overall_f1,0.6034598966524377
+overall_accuracy,0.9808058281296461
+,
+ConcentrationRiskPercentage1,"{'precision': 0.9556962025316456, 'recall': 0.9235474006116208, 'f1': 0.9393468118195957, 'number': 654}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.9273084479371316, 'recall': 0.8676470588235294, 'f1': 0.8964862298195632, 'number': 544}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.7058823529411765, 'recall': 0.8053691275167785, 'f1': 0.7523510971786834, 'number': 149}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.6172839506172839, 'recall': 0.78125, 'f1': 0.689655172413793, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.7915690866510539, 'recall': 0.7612612612612613, 'f1': 0.7761194029850746, 'number': 444}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.774869109947644, 'recall': 0.5342960288808665, 'f1': 0.6324786324786325, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.1270718232044199, 'recall': 0.46938775510204084, 'f1': 0.2, 'number': 49}"
+UnrecognizedTaxBenefits,"{'precision': 0.5691489361702128, 'recall': 0.6993464052287581, 'f1': 0.6275659824046921, 'number': 153}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.6373626373626373, 'recall': 0.5858585858585859, 'f1': 0.6105263157894737, 'number': 99}"
+overall_precision,0.7773279352226721
+overall_recall,0.7891491985203453
+overall_f1,0.7831939628798694
+overall_accuracy,0.9885816235504015
+,
+ConcentrationRiskPercentage1,"{'precision': 0.9257057949479941, 'recall': 0.9525993883792049, 'f1': 0.9389600602863604, 'number': 654}"
+EffectiveIncomeTaxRateContinuingOperations,"{'precision': 0.9490196078431372, 'recall': 0.8897058823529411, 'f1': 0.9184060721062619, 'number': 544}"
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"{'precision': 0.7085427135678392, 'recall': 0.9463087248322147, 'f1': 0.8103448275862069, 'number': 149}"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"{'precision': 0.5370370370370371, 'recall': 0.90625, 'f1': 0.6744186046511628, 'number': 64}"
+IncomeTaxExpenseBenefit,"{'precision': 0.8213457076566125, 'recall': 0.7972972972972973, 'f1': 0.809142857142857, 'number': 444}"
+RevenueFromContractWithCustomerExcludingAssessedTax,"{'precision': 0.7729468599033816, 'recall': 0.5776173285198556, 'f1': 0.6611570247933883, 'number': 277}"
+RevenueFromContractWithCustomerIncludingAssessedTax,"{'precision': 0.21333333333333335, 'recall': 0.6530612244897959, 'f1': 0.32160804020100503, 'number': 49}"
+UnrecognizedTaxBenefits,"{'precision': 0.6867469879518072, 'recall': 0.7450980392156863, 'f1': 0.7147335423197492, 'number': 153}"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,"{'precision': 0.8095238095238095, 'recall': 0.5151515151515151, 'f1': 0.6296296296296297, 'number': 99}"
+overall_precision,0.8045472676505784
+overall_recall,0.8290176736539252
+overall_f1,0.8165991902834008
+overall_accuracy,0.990321141837645
+,

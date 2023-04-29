@@ -1,0 +1,5 @@
+用ontonote作为source domain跑几个dataset， check 有source domain 是否有效
+划分数据集，把除了few shot之外的数据集划分成 unlabled data
+看paper跑一个baseline
+总结f1 score比较那种结果好
+attention map: set output_attentions=True in config.

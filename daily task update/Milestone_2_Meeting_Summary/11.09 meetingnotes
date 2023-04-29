@@ -1,0 +1,5 @@
+data inbalanced issue, LineOfCreditFacilityCurrentBorrowingCapacity（170）和 LineOfCreditFacilityMaximumBorrowingCapacity（1333）。
+OperatingLeasesRentExpenseNet 和 B-OperatingLeaseExpense
+2. 跑baseline，
+3. 总结几种错误情况找出example case
+4. 跑出baseline与fine-tune结果做比较。

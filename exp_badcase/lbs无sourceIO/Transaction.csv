@@ -1,0 +1,73 @@
+,0
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.18095238095238095, 'recall': 0.5671641791044776, 'f1': 0.27436823104693137, 'number': 67}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.6811594202898551, 'recall': 0.25405405405405407, 'f1': 0.3700787401574804, 'number': 185}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.5217391304347826, 'recall': 0.16, 'f1': 0.24489795918367344, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.49624060150375937, 'recall': 0.8354430379746836, 'f1': 0.6226415094339622, 'number': 79}"
+overall_precision,0.38209606986899564
+overall_recall,0.36382536382536385
+overall_f1,0.37273695420660274
+overall_accuracy,0.9733831560793331
+,
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.225, 'recall': 0.13432835820895522, 'f1': 0.16822429906542055, 'number': 67}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.6624203821656051, 'recall': 0.5621621621621622, 'f1': 0.608187134502924, 'number': 185}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.46368715083798884, 'recall': 0.5533333333333333, 'f1': 0.5045592705167173, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.3116279069767442, 'recall': 0.8481012658227848, 'f1': 0.45578231292517013, 'number': 79}"
+overall_precision,0.4450084602368866
+overall_recall,0.5467775467775468
+overall_f1,0.4906716417910448
+overall_accuracy,0.9749353262431734
+,
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.21621621621621623, 'recall': 0.23880597014925373, 'f1': 0.22695035460992904, 'number': 67}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.6983240223463687, 'recall': 0.6756756756756757, 'f1': 0.6868131868131868, 'number': 185}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.6991869918699187, 'recall': 0.5733333333333334, 'f1': 0.6300366300366301, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.5523809523809524, 'recall': 0.7341772151898734, 'f1': 0.6304347826086956, 'number': 79}"
+overall_precision,0.5925155925155925
+overall_recall,0.5925155925155925
+overall_f1,0.5925155925155925
+overall_accuracy,0.9824662259269905
+,
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.34285714285714286, 'recall': 0.3582089552238806, 'f1': 0.3503649635036496, 'number': 67}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.7301587301587301, 'recall': 0.745945945945946, 'f1': 0.7379679144385027, 'number': 185}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.7007874015748031, 'recall': 0.5933333333333334, 'f1': 0.6425992779783394, 'number': 150}"
+SaleOfStockPricePerShare,"{'precision': 0.67, 'recall': 0.8481012658227848, 'f1': 0.7486033519553073, 'number': 79}"
+overall_precision,0.654320987654321
+overall_recall,0.6611226611226612
+overall_f1,0.65770423991727
+overall_accuracy,0.9849382006323656
+,
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.23563218390804597, 'recall': 0.3082706766917293, 'f1': 0.267100977198697, 'number': 133}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.3, 'recall': 0.17763157894736842, 'f1': 0.2231404958677686, 'number': 152}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.5882352941176471, 'recall': 0.11299435028248588, 'f1': 0.18957345971563982, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.6098901098901099, 'recall': 0.8222222222222222, 'f1': 0.7003154574132492, 'number': 135}"
+overall_precision,0.41458333333333336
+overall_recall,0.3333333333333333
+overall_f1,0.3695450324976788
+overall_accuracy,0.9727681742836846
+,
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.3055555555555556, 'recall': 0.08270676691729323, 'f1': 0.1301775147928994, 'number': 133}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.4666666666666667, 'recall': 0.4605263157894737, 'f1': 0.46357615894039733, 'number': 152}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.4611872146118721, 'recall': 0.5706214689265536, 'f1': 0.5101010101010102, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.4367816091954023, 'recall': 0.8444444444444444, 'f1': 0.5757575757575758, 'number': 135}"
+overall_precision,0.4444444444444444
+overall_recall,0.49581239530988275
+overall_f1,0.4687252573238321
+overall_accuracy,0.9740942457968269
+,
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.32075471698113206, 'recall': 0.2556390977443609, 'f1': 0.28451882845188275, 'number': 133}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.45454545454545453, 'recall': 0.5592105263157895, 'f1': 0.5014749262536874, 'number': 152}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.7407407407407407, 'recall': 0.5649717514124294, 'f1': 0.6410256410256411, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.7642276422764228, 'recall': 0.6962962962962963, 'f1': 0.7286821705426357, 'number': 135}"
+overall_precision,0.5680580762250453
+overall_recall,0.52428810720268
+overall_f1,0.5452961672473867
+overall_accuracy,0.9807719630594364
+,
+RelatedPartyTransactionAmountsOfTransaction,"{'precision': 0.4270833333333333, 'recall': 0.3082706766917293, 'f1': 0.35807860262008734, 'number': 133}"
+RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty,"{'precision': 0.4696132596685083, 'recall': 0.5592105263157895, 'f1': 0.5105105105105106, 'number': 152}"
+SaleOfStockNumberOfSharesIssuedInTransaction,"{'precision': 0.7785234899328859, 'recall': 0.655367231638418, 'f1': 0.7116564417177913, 'number': 177}"
+SaleOfStockPricePerShare,"{'precision': 0.7753623188405797, 'recall': 0.7925925925925926, 'f1': 0.7838827838827839, 'number': 135}"
+overall_precision,0.6187943262411347
+overall_recall,0.5845896147403685
+overall_f1,0.6012058570198104
+overall_accuracy,0.982666350935354
+,

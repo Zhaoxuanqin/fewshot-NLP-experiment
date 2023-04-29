@@ -1,0 +1,113 @@
+,0
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.27976190476190477, 'recall': 0.2596685082872928, 'f1': 0.2693409742120344, 'number': 181}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8076923076923077, 'recall': 0.24705882352941178, 'f1': 0.3783783783783784, 'number': 170}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.6, 'recall': 0.023255813953488372, 'f1': 0.04477611940298507, 'number': 129}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.6724137931034483, 'recall': 0.2785714285714286, 'f1': 0.3939393939393939, 'number': 280}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.125, 'recall': 0.012121212121212121, 'f1': 0.022099447513812157, 'number': 165}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 65}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 66}"
+Goodwill,"{'precision': 0.41885964912280704, 'recall': 0.6025236593059937, 'f1': 0.4941785252263907, 'number': 317}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.2969543147208122, 'recall': 0.4978723404255319, 'f1': 0.37201907790143085, 'number': 235}"
+overall_precision,0.39408866995073893
+overall_recall,0.29850746268656714
+overall_f1,0.3397027600849257
+overall_accuracy,0.9738765518447281
+,
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.6558441558441559, 'recall': 0.5580110497237569, 'f1': 0.6029850746268657, 'number': 181}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.611764705882353, 'recall': 0.611764705882353, 'f1': 0.611764705882353, 'number': 170}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.6296296296296297, 'recall': 0.3953488372093023, 'f1': 0.48571428571428577, 'number': 129}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5163934426229508, 'recall': 0.45, 'f1': 0.4809160305343512, 'number': 280}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.44360902255639095, 'recall': 0.3575757575757576, 'f1': 0.3959731543624161, 'number': 165}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.1643835616438356, 'recall': 0.18461538461538463, 'f1': 0.17391304347826086, 'number': 65}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.18823529411764706, 'recall': 0.24242424242424243, 'f1': 0.2119205298013245, 'number': 66}"
+Goodwill,"{'precision': 0.4969512195121951, 'recall': 0.5141955835962145, 'f1': 0.5054263565891474, 'number': 317}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.3356164383561644, 'recall': 0.41702127659574467, 'f1': 0.37191650853889946, 'number': 235}"
+overall_precision,0.46794871794871795
+overall_recall,0.4539800995024876
+overall_f1,0.46085858585858586
+overall_accuracy,0.9775485224689631
+,
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.6794871794871795, 'recall': 0.585635359116022, 'f1': 0.6290801186943621, 'number': 181}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8372093023255814, 'recall': 0.6352941176470588, 'f1': 0.7224080267558528, 'number': 170}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.7619047619047619, 'recall': 0.7441860465116279, 'f1': 0.7529411764705882, 'number': 129}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5451388888888888, 'recall': 0.5607142857142857, 'f1': 0.5528169014084506, 'number': 280}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.5391304347826087, 'recall': 0.37575757575757573, 'f1': 0.44285714285714284, 'number': 165}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.25, 'recall': 0.2923076923076923, 'f1': 0.2695035460992908, 'number': 65}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.25, 'recall': 0.21212121212121213, 'f1': 0.22950819672131145, 'number': 66}"
+Goodwill,"{'precision': 0.6575757575757576, 'recall': 0.6845425867507886, 'f1': 0.670788253477589, 'number': 317}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.41114982578397213, 'recall': 0.502127659574468, 'f1': 0.4521072796934866, 'number': 235}"
+overall_precision,0.5738963531669866
+overall_recall,0.5578358208955224
+overall_f1,0.565752128666036
+overall_accuracy,0.9817275747508306
+,
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.8114285714285714, 'recall': 0.7845303867403315, 'f1': 0.797752808988764, 'number': 181}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8157894736842105, 'recall': 0.7294117647058823, 'f1': 0.7701863354037266, 'number': 170}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.7608695652173914, 'recall': 0.813953488372093, 'f1': 0.7865168539325844, 'number': 129}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5580645161290323, 'recall': 0.6178571428571429, 'f1': 0.5864406779661017, 'number': 280}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.5432098765432098, 'recall': 0.5333333333333333, 'f1': 0.5382262996941896, 'number': 165}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.4188034188034188, 'recall': 0.7538461538461538, 'f1': 0.5384615384615384, 'number': 65}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.4722222222222222, 'recall': 0.5151515151515151, 'f1': 0.49275362318840576, 'number': 66}"
+Goodwill,"{'precision': 0.8145454545454546, 'recall': 0.7066246056782335, 'f1': 0.7567567567567569, 'number': 317}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.4863636363636364, 'recall': 0.4553191489361702, 'f1': 0.4703296703296703, 'number': 235}"
+overall_precision,0.6452806909315237
+overall_recall,0.650497512437811
+overall_f1,0.6478786001858161
+overall_accuracy,0.9840181849973771
+,
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.2826086956521739, 'recall': 0.24528301886792453, 'f1': 0.2626262626262626, 'number': 159}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.7391304347826086, 'recall': 0.2236842105263158, 'f1': 0.3434343434343434, 'number': 152}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.9166666666666666, 'recall': 0.07482993197278912, 'f1': 0.13836477987421386, 'number': 147}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.6068376068376068, 'recall': 0.2751937984496124, 'f1': 0.37866666666666665, 'number': 258}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.08333333333333333, 'recall': 0.00641025641025641, 'f1': 0.011904761904761904, 'number': 156}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 102}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 68}"
+Goodwill,"{'precision': 0.36886993603411516, 'recall': 0.5088235294117647, 'f1': 0.42768850432632877, 'number': 340}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.28978622327790976, 'recall': 0.5062240663900415, 'f1': 0.36858006042296065, 'number': 241}"
+overall_precision,0.36936936936936937
+overall_recall,0.2778804682686383
+overall_f1,0.3171589310829817
+overall_accuracy,0.9720787809606639
+,
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.6031746031746031, 'recall': 0.4779874213836478, 'f1': 0.5333333333333333, 'number': 159}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.6451612903225806, 'recall': 0.5263157894736842, 'f1': 0.5797101449275363, 'number': 152}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.6966292134831461, 'recall': 0.4217687074829932, 'f1': 0.5254237288135594, 'number': 147}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.4620938628158845, 'recall': 0.49612403100775193, 'f1': 0.4785046728971963, 'number': 258}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.3505747126436782, 'recall': 0.391025641025641, 'f1': 0.3696969696969697, 'number': 156}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.2647058823529412, 'recall': 0.17647058823529413, 'f1': 0.21176470588235294, 'number': 102}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.1566265060240964, 'recall': 0.19117647058823528, 'f1': 0.17218543046357615, 'number': 68}"
+Goodwill,"{'precision': 0.5223367697594502, 'recall': 0.4470588235294118, 'f1': 0.48177496038034867, 'number': 340}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.3861003861003861, 'recall': 0.4149377593360996, 'f1': 0.4000000000000001, 'number': 241}"
+overall_precision,0.46277665995975853
+overall_recall,0.42513863216266173
+overall_f1,0.44315992292870904
+overall_accuracy,0.9767353372832527
+,
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.6470588235294118, 'recall': 0.48427672955974843, 'f1': 0.5539568345323741, 'number': 159}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.839622641509434, 'recall': 0.5855263157894737, 'f1': 0.689922480620155, 'number': 152}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.7702702702702703, 'recall': 0.7755102040816326, 'f1': 0.7728813559322034, 'number': 147}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5317725752508361, 'recall': 0.6162790697674418, 'f1': 0.570915619389587, 'number': 258}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.527027027027027, 'recall': 0.5, 'f1': 0.513157894736842, 'number': 156}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.3258426966292135, 'recall': 0.28431372549019607, 'f1': 0.3036649214659686, 'number': 102}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.21052631578947367, 'recall': 0.17647058823529413, 'f1': 0.19199999999999998, 'number': 68}"
+Goodwill,"{'precision': 0.7006802721088435, 'recall': 0.6058823529411764, 'f1': 0.6498422712933754, 'number': 340}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.4581673306772908, 'recall': 0.47717842323651455, 'f1': 0.46747967479674796, 'number': 241}"
+overall_precision,0.5817339510258107
+overall_recall,0.5415896487985212
+overall_f1,0.560944479897894
+overall_accuracy,0.9806308999655741
+,
+AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife,"{'precision': 0.7246376811594203, 'recall': 0.6289308176100629, 'f1': 0.6734006734006733, 'number': 159}"
+BusinessAcquisitionPercentageOfVotingInterestsAcquired,"{'precision': 0.8790322580645161, 'recall': 0.7171052631578947, 'f1': 0.7898550724637682, 'number': 152}"
+BusinessCombinationAcquisitionRelatedCosts,"{'precision': 0.7757575757575758, 'recall': 0.8707482993197279, 'f1': 0.8205128205128205, 'number': 147}"
+BusinessCombinationConsiderationTransferred1,"{'precision': 0.5123456790123457, 'recall': 0.6434108527131783, 'f1': 0.570446735395189, 'number': 258}"
+BusinessCombinationContingentConsiderationLiability,"{'precision': 0.5757575757575758, 'recall': 0.6089743589743589, 'f1': 0.5919003115264798, 'number': 156}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill,"{'precision': 0.42857142857142855, 'recall': 0.5, 'f1': 0.4615384615384615, 'number': 102}"
+BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"{'precision': 0.3472222222222222, 'recall': 0.36764705882352944, 'f1': 0.3571428571428572, 'number': 68}"
+Goodwill,"{'precision': 0.8104838709677419, 'recall': 0.5911764705882353, 'f1': 0.6836734693877551, 'number': 340}"
+PaymentsToAcquireBusinessesGross,"{'precision': 0.5072463768115942, 'recall': 0.43568464730290457, 'f1': 0.46875, 'number': 241}"
+overall_precision,0.6274007682458387
+overall_recall,0.6038200862600123
+overall_f1,0.6153846153846153
+overall_accuracy,0.9830225942635574
+,

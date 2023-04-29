@@ -1,0 +1,81 @@
+,0
+AmortizationOfFinancingCosts,"{'precision': 0.42857142857142855, 'recall': 0.03529411764705882, 'f1': 0.06521739130434782, 'number': 85}"
+AmortizationOfIntangibleAssets,"{'precision': 0.8444444444444444, 'recall': 0.6118067978533095, 'f1': 0.7095435684647304, 'number': 559}"
+CapitalizedContractCostAmortization,"{'precision': 0.17857142857142858, 'recall': 0.42168674698795183, 'f1': 0.25089605734767023, 'number': 83}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.6296296296296297, 'recall': 0.08333333333333333, 'f1': 0.14718614718614717, 'number': 204}"
+InterestExpenseDebt,"{'precision': 0.3333333333333333, 'recall': 0.7676767676767676, 'f1': 0.46483180428134546, 'number': 99}"
+overall_precision,0.5480880648899189
+overall_recall,0.45922330097087377
+overall_f1,0.4997358689910195
+overall_accuracy,0.9773279884339883
+,
+AmortizationOfFinancingCosts,"{'precision': 0.275, 'recall': 0.25882352941176473, 'f1': 0.26666666666666666, 'number': 85}"
+AmortizationOfIntangibleAssets,"{'precision': 0.8158844765342961, 'recall': 0.8085867620751341, 'f1': 0.812219227313567, 'number': 559}"
+CapitalizedContractCostAmortization,"{'precision': 0.3582089552238806, 'recall': 0.2891566265060241, 'f1': 0.32, 'number': 83}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.6032608695652174, 'recall': 0.5441176470588235, 'f1': 0.5721649484536082, 'number': 204}"
+InterestExpenseDebt,"{'precision': 0.5, 'recall': 0.3939393939393939, 'f1': 0.4406779661016949, 'number': 99}"
+overall_precision,0.6728971962616822
+overall_recall,0.629126213592233
+overall_f1,0.650275965880582
+overall_accuracy,0.9846553197082211
+,
+AmortizationOfFinancingCosts,"{'precision': 0.475, 'recall': 0.2235294117647059, 'f1': 0.304, 'number': 85}"
+AmortizationOfIntangibleAssets,"{'precision': 0.8149532710280374, 'recall': 0.7799642218246869, 'f1': 0.7970749542961609, 'number': 559}"
+CapitalizedContractCostAmortization,"{'precision': 0.3076923076923077, 'recall': 0.43373493975903615, 'f1': 0.36, 'number': 83}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.7202072538860104, 'recall': 0.6813725490196079, 'f1': 0.7002518891687657, 'number': 204}"
+InterestExpenseDebt,"{'precision': 0.4013605442176871, 'recall': 0.5959595959595959, 'f1': 0.4796747967479675, 'number': 99}"
+overall_precision,0.6676356589147286
+overall_recall,0.6689320388349514
+overall_f1,0.6682832201745877
+overall_accuracy,0.9857067753170796
+,
+AmortizationOfFinancingCosts,"{'precision': 0.7837837837837838, 'recall': 0.6823529411764706, 'f1': 0.7295597484276729, 'number': 85}"
+AmortizationOfIntangibleAssets,"{'precision': 0.8981132075471698, 'recall': 0.851520572450805, 'f1': 0.874196510560147, 'number': 559}"
+CapitalizedContractCostAmortization,"{'precision': 0.5596330275229358, 'recall': 0.7349397590361446, 'f1': 0.6354166666666666, 'number': 83}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.7565217391304347, 'recall': 0.8529411764705882, 'f1': 0.8018433179723502, 'number': 204}"
+InterestExpenseDebt,"{'precision': 0.6608695652173913, 'recall': 0.7676767676767676, 'f1': 0.7102803738317758, 'number': 99}"
+overall_precision,0.7986767485822306
+overall_recall,0.8203883495145631
+overall_f1,0.8093869731800766
+overall_accuracy,0.9912269172635868
+,
+AmortizationOfFinancingCosts,"{'precision': 1.0, 'recall': 0.012195121951219513, 'f1': 0.024096385542168676, 'number': 82}"
+AmortizationOfIntangibleAssets,"{'precision': 0.8578947368421053, 'recall': 0.690677966101695, 'f1': 0.7652582159624415, 'number': 472}"
+CapitalizedContractCostAmortization,"{'precision': 0.2786885245901639, 'recall': 0.5730337078651685, 'f1': 0.375, 'number': 89}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.5555555555555556, 'recall': 0.10638297872340426, 'f1': 0.17857142857142855, 'number': 188}"
+InterestExpenseDebt,"{'precision': 0.4329896907216495, 'recall': 0.75, 'f1': 0.5490196078431373, 'number': 112}"
+overall_precision,0.6070528967254408
+overall_recall,0.5111346765641569
+overall_f1,0.5549798503166378
+overall_accuracy,0.978198443285725
+,
+AmortizationOfFinancingCosts,"{'precision': 0.18811881188118812, 'recall': 0.23170731707317074, 'f1': 0.20765027322404372, 'number': 82}"
+AmortizationOfIntangibleAssets,"{'precision': 0.7637130801687764, 'recall': 0.7669491525423728, 'f1': 0.7653276955602537, 'number': 472}"
+CapitalizedContractCostAmortization,"{'precision': 0.3333333333333333, 'recall': 0.20224719101123595, 'f1': 0.2517482517482518, 'number': 89}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.6988636363636364, 'recall': 0.6542553191489362, 'f1': 0.6758241758241759, 'number': 188}"
+InterestExpenseDebt,"{'precision': 0.6623376623376623, 'recall': 0.45535714285714285, 'f1': 0.5396825396825397, 'number': 112}"
+overall_precision,0.6496598639455783
+overall_recall,0.6076352067868505
+overall_f1,0.6279452054794521
+overall_accuracy,0.9834126804201617
+,
+AmortizationOfFinancingCosts,"{'precision': 0.4782608695652174, 'recall': 0.2682926829268293, 'f1': 0.34375000000000006, 'number': 82}"
+AmortizationOfIntangibleAssets,"{'precision': 0.797938144329897, 'recall': 0.8199152542372882, 'f1': 0.8087774294670846, 'number': 472}"
+CapitalizedContractCostAmortization,"{'precision': 0.4444444444444444, 'recall': 0.5393258426966292, 'f1': 0.4873096446700507, 'number': 89}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.7614213197969543, 'recall': 0.7978723404255319, 'f1': 0.779220779220779, 'number': 188}"
+InterestExpenseDebt,"{'precision': 0.5702479338842975, 'recall': 0.6160714285714286, 'f1': 0.5922746781115881, 'number': 112}"
+overall_precision,0.7063740856844305
+overall_recall,0.7168610816542949
+overall_f1,0.7115789473684211
+overall_accuracy,0.986586563893297
+,
+AmortizationOfFinancingCosts,"{'precision': 0.6385542168674698, 'recall': 0.6463414634146342, 'f1': 0.6424242424242423, 'number': 82}"
+AmortizationOfIntangibleAssets,"{'precision': 0.9267139479905437, 'recall': 0.8305084745762712, 'f1': 0.8759776536312849, 'number': 472}"
+CapitalizedContractCostAmortization,"{'precision': 0.5801526717557252, 'recall': 0.8539325842696629, 'f1': 0.6909090909090908, 'number': 89}"
+FiniteLivedIntangibleAssetUsefulLife,"{'precision': 0.7511520737327189, 'recall': 0.8670212765957447, 'f1': 0.8049382716049382, 'number': 188}"
+InterestExpenseDebt,"{'precision': 0.7592592592592593, 'recall': 0.7321428571428571, 'f1': 0.7454545454545455, 'number': 112}"
+overall_precision,0.7962577962577962
+overall_recall,0.8123011664899258
+overall_f1,0.8041994750656168
+overall_accuracy,0.9905161339076551
+,

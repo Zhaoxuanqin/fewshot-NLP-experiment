@@ -1,0 +1,121 @@
+,0
+AccrualForEnvironmentalLossContingencies,"{'precision': 1.0, 'recall': 0.005, 'f1': 0.009950248756218907, 'number': 200}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.7178571428571429, 'recall': 0.44127332601536773, 'f1': 0.5465669612508498, 'number': 1822}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 1.0, 'recall': 0.013986013986013986, 'f1': 0.027586206896551724, 'number': 143}"
+GoodwillImpairmentLoss,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 225}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 118}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.26666666666666666, 'recall': 0.03864734299516908, 'f1': 0.06751054852320675, 'number': 207}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.08695652173913043, 'recall': 0.04838709677419355, 'f1': 0.0621761658031088, 'number': 124}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.05555555555555555, 'recall': 0.014018691588785047, 'f1': 0.022388059701492536, 'number': 214}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.07739938080495357, 'recall': 0.1893939393939394, 'f1': 0.10989010989010989, 'number': 132}"
+OperatingLossCarryforwards,"{'precision': 0.004784688995215311, 'recall': 0.021739130434782608, 'f1': 0.00784313725490196, 'number': 46}"
+overall_precision,0.4644808743169399
+overall_recall,0.26307644692045806
+overall_f1,0.33590199565303297
+overall_accuracy,0.9758911307100491
+,
+AccrualForEnvironmentalLossContingencies,"{'precision': 0.6233766233766234, 'recall': 0.24, 'f1': 0.34657039711191334, 'number': 200}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.7888249794576828, 'recall': 0.5268935236004391, 'f1': 0.6317867719644621, 'number': 1822}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 0.49166666666666664, 'recall': 0.4125874125874126, 'f1': 0.4486692015209126, 'number': 143}"
+GoodwillImpairmentLoss,"{'precision': 0.21341463414634146, 'recall': 0.15555555555555556, 'f1': 0.17994858611825196, 'number': 225}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.19858156028368795, 'recall': 0.23728813559322035, 'f1': 0.21621621621621623, 'number': 118}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.2518518518518518, 'recall': 0.3285024154589372, 'f1': 0.2851153039832285, 'number': 207}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.21910112359550563, 'recall': 0.31451612903225806, 'f1': 0.2582781456953643, 'number': 124}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.2835820895522388, 'recall': 0.26635514018691586, 'f1': 0.2746987951807229, 'number': 214}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.1796116504854369, 'recall': 0.2803030303030303, 'f1': 0.21893491124260353, 'number': 132}"
+OperatingLossCarryforwards,"{'precision': 0.21666666666666667, 'recall': 0.2826086956521739, 'f1': 0.24528301886792453, 'number': 46}"
+overall_precision,0.510250569476082
+overall_recall,0.4159702878365831
+overall_f1,0.45831202046035807
+overall_accuracy,0.9791464399644282
+,
+AccrualForEnvironmentalLossContingencies,"{'precision': 0.553030303030303, 'recall': 0.365, 'f1': 0.43975903614457834, 'number': 200}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.8730627306273063, 'recall': 0.6492864983534578, 'f1': 0.7447277305634247, 'number': 1822}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 0.553072625698324, 'recall': 0.6923076923076923, 'f1': 0.6149068322981366, 'number': 143}"
+GoodwillImpairmentLoss,"{'precision': 0.5542857142857143, 'recall': 0.4311111111111111, 'f1': 0.485, 'number': 225}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.3684210526315789, 'recall': 0.4152542372881356, 'f1': 0.3904382470119522, 'number': 118}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.3204633204633205, 'recall': 0.40096618357487923, 'f1': 0.3562231759656653, 'number': 207}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.3719512195121951, 'recall': 0.49193548387096775, 'f1': 0.4236111111111111, 'number': 124}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.4263157894736842, 'recall': 0.37850467289719625, 'f1': 0.40099009900990096, 'number': 214}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.45925925925925926, 'recall': 0.4696969696969697, 'f1': 0.46441947565543074, 'number': 132}"
+OperatingLossCarryforwards,"{'precision': 0.5757575757575758, 'recall': 0.41304347826086957, 'f1': 0.48101265822784817, 'number': 46}"
+overall_precision,0.6558983666061706
+overall_recall,0.5592695759826679
+overall_f1,0.6037420648179084
+overall_accuracy,0.9845311620393411
+,
+AccrualForEnvironmentalLossContingencies,"{'precision': 0.6344086021505376, 'recall': 0.59, 'f1': 0.6113989637305699, 'number': 200}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.8611295681063122, 'recall': 0.7113062568605928, 'f1': 0.7790802524797116, 'number': 1822}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 0.6830601092896175, 'recall': 0.8741258741258742, 'f1': 0.7668711656441717, 'number': 143}"
+GoodwillImpairmentLoss,"{'precision': 0.8415841584158416, 'recall': 0.7555555555555555, 'f1': 0.7962529274004684, 'number': 225}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.6616541353383458, 'recall': 0.7457627118644068, 'f1': 0.7011952191235059, 'number': 118}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.45320197044334976, 'recall': 0.4444444444444444, 'f1': 0.44878048780487806, 'number': 207}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.37572254335260113, 'recall': 0.5241935483870968, 'f1': 0.43771043771043766, 'number': 124}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.4744897959183674, 'recall': 0.43457943925233644, 'f1': 0.45365853658536587, 'number': 214}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.4936708860759494, 'recall': 0.5909090909090909, 'f1': 0.5379310344827586, 'number': 132}"
+OperatingLossCarryforwards,"{'precision': 0.7560975609756098, 'recall': 0.6739130434782609, 'f1': 0.7126436781609194, 'number': 46}"
+overall_precision,0.723489932885906
+overall_recall,0.6672856700711854
+overall_f1,0.694252133311866
+overall_accuracy,0.9871337777088823
+,
+AccrualForEnvironmentalLossContingencies,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 70}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.7125683060109289, 'recall': 0.46940244780417567, 'f1': 0.5659722222222222, 'number': 1389}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 119}"
+GoodwillImpairmentLoss,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 255}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 79}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.38461538461538464, 'recall': 0.03787878787878788, 'f1': 0.06896551724137931, 'number': 132}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.13157894736842105, 'recall': 0.0423728813559322, 'f1': 0.0641025641025641, 'number': 118}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.13043478260869565, 'recall': 0.05217391304347826, 'f1': 0.07453416149068322, 'number': 115}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.04498269896193772, 'recall': 0.20634920634920634, 'f1': 0.07386363636363635, 'number': 63}"
+OperatingLossCarryforwards,"{'precision': 0.032467532467532464, 'recall': 0.045454545454545456, 'f1': 0.03787878787878788, 'number': 110}"
+overall_precision,0.4679399727148704
+overall_recall,0.28
+overall_f1,0.35035750766087853
+overall_accuracy,0.9765277720078103
+,
+AccrualForEnvironmentalLossContingencies,"{'precision': 0.625, 'recall': 0.2857142857142857, 'f1': 0.392156862745098, 'number': 70}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.7671232876712328, 'recall': 0.564434845212383, 'f1': 0.650352550808793, 'number': 1389}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 0.4794520547945205, 'recall': 0.29411764705882354, 'f1': 0.36458333333333337, 'number': 119}"
+GoodwillImpairmentLoss,"{'precision': 0.3161290322580645, 'recall': 0.19215686274509805, 'f1': 0.23902439024390243, 'number': 255}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.31868131868131866, 'recall': 0.3670886075949367, 'f1': 0.3411764705882353, 'number': 79}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.38571428571428573, 'recall': 0.4090909090909091, 'f1': 0.3970588235294118, 'number': 132}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.2892561983471074, 'recall': 0.2966101694915254, 'f1': 0.2928870292887029, 'number': 118}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.25443786982248523, 'recall': 0.3739130434782609, 'f1': 0.3028169014084507, 'number': 115}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.05714285714285714, 'recall': 0.19047619047619047, 'f1': 0.08791208791208792, 'number': 63}"
+OperatingLossCarryforwards,"{'precision': 0.5301204819277109, 'recall': 0.4, 'f1': 0.45595854922279794, 'number': 110}"
+overall_precision,0.5271946564885496
+overall_recall,0.45102040816326533
+overall_f1,0.48614166300044
+overall_accuracy,0.9801109218561754
+,
+AccrualForEnvironmentalLossContingencies,"{'precision': 0.42857142857142855, 'recall': 0.34285714285714286, 'f1': 0.38095238095238093, 'number': 70}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.840321141837645, 'recall': 0.6781857451403888, 'f1': 0.750597609561753, 'number': 1389}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 0.5897435897435898, 'recall': 0.5798319327731093, 'f1': 0.5847457627118645, 'number': 119}"
+GoodwillImpairmentLoss,"{'precision': 0.7721518987341772, 'recall': 0.47843137254901963, 'f1': 0.5907990314769976, 'number': 255}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.40186915887850466, 'recall': 0.5443037974683544, 'f1': 0.4623655913978495, 'number': 79}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.40714285714285714, 'recall': 0.4318181818181818, 'f1': 0.41911764705882354, 'number': 132}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.46564885496183206, 'recall': 0.5169491525423728, 'f1': 0.4899598393574297, 'number': 118}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.3333333333333333, 'recall': 0.3739130434782609, 'f1': 0.3524590163934426, 'number': 115}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.2159090909090909, 'recall': 0.30158730158730157, 'f1': 0.25165562913907286, 'number': 63}"
+OperatingLossCarryforwards,"{'precision': 0.8461538461538461, 'recall': 0.5, 'f1': 0.6285714285714286, 'number': 110}"
+overall_precision,0.6794507575757576
+overall_recall,0.5857142857142857
+overall_f1,0.6291100394563789
+overall_accuracy,0.9854804536579286
+,
+AccrualForEnvironmentalLossContingencies,"{'precision': 0.6463414634146342, 'recall': 0.7571428571428571, 'f1': 0.6973684210526315, 'number': 70}"
+DebtInstrumentInterestRateStatedPercentage,"{'precision': 0.835583796664019, 'recall': 0.7573794096472283, 'f1': 0.7945619335347432, 'number': 1389}"
+GainsLossesOnExtinguishmentOfDebt,"{'precision': 0.7421875, 'recall': 0.7983193277310925, 'f1': 0.7692307692307693, 'number': 119}"
+GoodwillImpairmentLoss,"{'precision': 0.8766519823788547, 'recall': 0.7803921568627451, 'f1': 0.8257261410788382, 'number': 255}"
+IncomeLossFromEquityMethodInvestments,"{'precision': 0.5728155339805825, 'recall': 0.7468354430379747, 'f1': 0.6483516483516483, 'number': 79}"
+LossContingencyAccrualAtCarryingValue,"{'precision': 0.5409836065573771, 'recall': 0.5, 'f1': 0.5196850393700788, 'number': 132}"
+LossContingencyDamagesSoughtValue,"{'precision': 0.5691056910569106, 'recall': 0.5932203389830508, 'f1': 0.5809128630705394, 'number': 118}"
+LossContingencyEstimateOfPossibleLoss,"{'precision': 0.49586776859504134, 'recall': 0.5217391304347826, 'f1': 0.5084745762711864, 'number': 115}"
+LossContingencyPendingClaimsNumber,"{'precision': 0.22826086956521738, 'recall': 0.3333333333333333, 'f1': 0.27096774193548384, 'number': 63}"
+OperatingLossCarryforwards,"{'precision': 0.8571428571428571, 'recall': 0.7090909090909091, 'f1': 0.7761194029850746, 'number': 110}"
+overall_precision,0.7465928449744463
+overall_recall,0.7155102040816327
+overall_f1,0.7307211338057523
+overall_accuracy,0.9883365875950314
+,
